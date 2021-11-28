@@ -274,115 +274,55 @@
     <!--1st row-->
     <div class="projects-container">
       <div class="project-container project-card">
-        <img src="/assets/parrot.jpg" alt="Fish" loading="lazy"  class="project-pic">
-        <h3 class="project-title">Parrot</h3>
+        <img src="/assets/snakes/black_rat.jpg" alt="Snake" loading="lazy"  class="project-pic">
+        <h3 class="project-title">Black Rat</h3>
         <p class="project-details">
-          Rabbits
+          Snake
         </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
+        <a href="/sub_pages/buy_pets/Snakes/black_rat/black_rat.php" target="_self" class="project-link">Check it Out</a>
       </div>
       <div class="project-container project-card">
-          <img  src="/assets/rabbit.jpg" alt="Fish"  loading="lazy"  class="project-pic">
-        <h3 class="project-title">Rabbit</h3>
+          <img  src="/assets/snakes/copper_head.jpg" alt="Snake"  loading="lazy"  class="project-pic">
+        <h3 class="project-title">Copper Head</h3>
         <p class="project-details">
-          Rabbits
+          Snake
         </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
+        <a href="/sub_pages/buy_pets/Snakes/copper_head/copper_head.php" target="_self" class="project-link">Check it Out</a>
       </div>
       <div class="project-container project-card">
-        <img src="/assets/snake.jpg"  alt="fish"  loading="lazy"  class="project-pic">
-        <h3 class="project-title">Snake</h3>
+        <img src="/assets/snakes/milk_snake.jpg"  alt="Snake"  loading="lazy"  class="project-pic">
+        <h3 class="project-title">Milk Snake</h3>
         <p class="project-details">
-          Rabbits
+          Snake
         </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
-      </div>
-    </div>
-    <!--2nd row-->
-    <div class="projects-container">
-      <div class="project-container project-card">
-        <img src="/assets/parrot.jpg" alt="Fish" loading="lazy"  class="project-pic">
-        <h3 class="project-title">Parrot</h3>
-        <p class="project-details">
-          Rabbits
-        </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
-      </div>
-      <div class="project-container project-card">
-          <img  src="/assets/rabbit.jpg" alt="Fish"  loading="lazy"  class="project-pic">
-        <h3 class="project-title">Rabbit</h3>
-        <p class="project-details">
-          Rabbits
-        </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
-      </div>
-      <div class="project-container project-card">
-        <img src="/assets/snake.jpg"  alt="fish"  loading="lazy"  class="project-pic">
-        <h3 class="project-title">Snake</h3>
-        <p class="project-details">
-          Rabbits
-        </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
-      </div>
-    </div>
-  </section>
-
-  <!--horse and Rabbit Section-->
-
-  <section class="projects" id="projects">
-    <h2 class="projects-title" id="Horse_Rabbit">Rabbit and others</h2>
-    <!--1st row-->
-    <div class="projects-container">
-      <div class="project-container project-card">
-        <img src="/assets/parrot.jpg" alt="Fish" loading="lazy"  class="project-pic">
-        <h3 class="project-title">Parrot</h3>
-        <p class="project-details">
-          Rabbits
-        </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
-      </div>
-      <div class="project-container project-card">
-          <img  src="/assets/rabbit.jpg" alt="Fish"  loading="lazy"  class="project-pic">
-        <h3 class="project-title">Rabbit</h3>
-        <p class="project-details">
-          Rabbits
-        </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
-      </div>
-      <div class="project-container project-card">
-        <img src="/assets/snake.jpg"  alt="fish"  loading="lazy"  class="project-pic">
-        <h3 class="project-title">Snake</h3>
-        <p class="project-details">
-          Rabbits
-        </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
+        <a href="/sub_pages/buy_pets/Snakes/milk_snake/milk_snake.php" target="_self" class="project-link">Check it Out</a>
       </div>
     </div>
     <!--2nd row-->
     <div class="projects-container">
       <div class="project-container project-card">
-        <img src="/assets/parrot.jpg" alt="Fish" loading="lazy"  class="project-pic">
-        <h3 class="project-title">Parrot</h3>
+        <img src="/assets/snakes/scarlet.jpg" alt="Snake" loading="lazy"  class="project-pic">
+        <h3 class="project-title">Scarlet</h3>
         <p class="project-details">
-          Rabbits
+          Snake
         </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
+        <a href="/sub_pages/buy_pets/Snakes/scarlet_snake/scarlet_snake.php" target="_self" class="project-link">Check it Out</a>
       </div>
       <div class="project-container project-card">
-          <img  src="/assets/rabbit.jpg" alt="Fish"  loading="lazy"  class="project-pic">
-        <h3 class="project-title">Rabbit</h3>
+          <img  src="/assets/snakes/Timber_rattle_snake.jpg" alt="Snake"  loading="lazy"  class="project-pic">
+        <h3 class="project-title">Timber Rattle Snake</h3>
         <p class="project-details">
-          Rabbits
+          Snake
         </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
+        <a href="/sub_pages/buy_pets/Snakes/timber_rattle_snake/timber_rattle_snake.php" target="_self" class="project-link">Check it Out</a>
       </div>
       <div class="project-container project-card">
-        <img src="/assets/snake.jpg"  alt="fish"  loading="lazy"  class="project-pic">
-        <h3 class="project-title">Snake</h3>
+        <img src="/assets/snakes/red_bellied_black_snake.jpg"  alt="snake"  loading="lazy"  class="project-pic">
+        <h3 class="project-title">Red Bellied Black Snake</h3>
         <p class="project-details">
-          Rabbits
+          Snake
         </p>
-        <a href="#" target="_blank" class="project-link">Check it Out</a>
+        <a href="/sub_pages/buy_pets/Snakes/red_bellied_black_snake/red_bellied_black_snake.php" target="_self" class="project-link">Check it Out</a>
       </div>
     </div>
   </section>

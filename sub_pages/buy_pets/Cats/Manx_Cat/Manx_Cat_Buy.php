@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <!-- Important to make website responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Poodle</title>
+    <title>Manx Cat</title>
 
     <!-- Link our CSS file -->
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/Buying_page.css">
@@ -34,19 +34,18 @@
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
 
-            <form action="/sub_pages/buy_pets/Dogs/Poodle/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
+            <form action="/sub_pages/buy_pets/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend style="color: white;">Selected Dog</legend>
+                    <legend style="color: white;">Selected Pet</legend>
 
                     <div class="dog-menu-img">
-                        <img src="/assets/dogs/Poodle.jpg" alt="Poodle" class="img-responsive img-curve">
+                        <img src="/assets/Cats/ManxCat.jpg" alt="Manx Cat" class="img-responsive img-curve">
                     </div>
-    
                     <div class="dog-menu-desc">
-                    <div class="order-label">Dog ID</div>
+                    <div class="order-label">Pet ID</div>
                     <input type="text" name="id" class="input-responsive" readonly  value="10005">
-                    <div class="order-label">Dog Name</div>
-                    <input type="text" name="name" class="input-responsive" readonly  value="Poodle">
+                    <div class="order-label">Pet Name</div>
+                    <input type="text" name="name" class="input-responsive" readonly  value="Manx Cat">
 
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">

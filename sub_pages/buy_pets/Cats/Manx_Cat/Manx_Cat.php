@@ -24,24 +24,24 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/dogs/Poodle.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/Cats/ManxCat.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title"> Poodle </h2>
+          <h2 class="bio-title"> Manx Cat </h2>
           <p class="bio-text">
           <span>Size</span>
           <p> over 15 inches (standard) </p>
           <span>Color</span>
           <p>Brindle, Apricot, Black, Blue</p>
           </p>
-          <a href="/sub_pages/buy_pets/Dogs/Poodle/Poodle_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Cats/Manx_Cat/Manx_Cat_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about Poodle</h2>
+        <h2>More about Manx Cat</h2>
         <p>
         Whether Standard, Miniature, or Toy, and either black, white, or apricot, the Poodle stands proudly among dogdom¿s true aristocrats. Beneath the curly, low-allergen coat is an elegant athlete and companion for all reasons and seasons. Poodles come in three size varieties: Standards should be more than 15 inches tall at the shoulder; Miniatures are 15 inches or under; Toys stand no more than 10 inches. All three varieties have the same build and proportions. At dog shows, Poodles are usually seen in the elaborate Continental Clip. Most pet owners prefer the simpler Sporting Clip, in which the coat is shorn to follow the outline of the squarely built, smoothly muscled body. Forget those old stereotypes of Poodles as sissy dogs. Poodles are eager, athletic, and wickedly smart ¿real dogs¿ of remarkable versatility. The Standard, with his greater size and strength, is the best all-around athlete of the family, but all Poodles can be trained with great success.
       </p>

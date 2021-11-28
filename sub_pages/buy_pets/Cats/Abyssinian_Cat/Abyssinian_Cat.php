@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>Alaskan Malamute</title>
+    <title>AbyssinianCat</title>
 </head>
 <body>
 <nav>
@@ -27,7 +27,7 @@
           <img  src="/assets/Cats/AbyssinianCat.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title">Alaskan Malamute </h2>
+          <h2 class="bio-title">Abyssinian Cat </h2>
           <p class="bio-text">
           <span>Size</span>
           <p> 23 to 25 inch</p>
@@ -41,7 +41,7 @@
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about Alaskan Malamute</h2>
+        <h2>More about  AbyssinianCat</h2>
         <p>
         An immensely strong, heavy-duty worker of spitz type, the Alaskan Malamute is an affectionate, loyal, and playful but dignified dog recognizable by his well-furred plumed tail carried over the back, erect ears, and substantial bone. The Alaskan Malamute stands 23 to 25 inches at the shoulder and weighs 75 to 85 pounds. Everything about Mals suggests their origin as an arctic sled dog: The heavy bone, deep chest, powerful shoulders, and dense, weatherproof coat all scream, 'I work hard for a living!' But their almond-shaped brown eyes have an affectionate sparkle, suggesting Mals enjoy snuggling with their humans when the workday is done. Mals are pack animals. And in your family 'pack,' the leader must be you. If a Mal doesn't respect you, he will wind up owning you instead of the other way around. Firm but loving training should begin in early puppyhood. That said, a well-behaved Mal is a joy to be with'¿playful, gentle, friendly, and great with kids.
         </p>

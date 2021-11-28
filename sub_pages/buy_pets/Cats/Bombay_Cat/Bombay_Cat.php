@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>German Shepherd</title>
+    <title>Bombay Cat</title>
 </head>
 <body>
 <nav>
@@ -27,14 +27,14 @@
           <img  src="/assets/dogs/GermanShepherd.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title"> German Shepherd </h2>
+          <h2 class="bio-title"> Bombay Cat </h2>
           <p class="bio-text">
           <span>Size</span>
           <p> 60-65 cm for males and for females 55-60 cm </p>
           <span>Color</span>
           <p>tan/black and red/black</p>
           </p>
-          <a href="/sub_pages/buy_pets/Dogs/German_Shepherd/German_Shepherd_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Cats/Bombay_Cat/Bombay_Cat_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>

@@ -1,0 +1,18 @@
+
+#buy{
+  text-align: center;
+  background-color: antiquewhite;
+}
+.project-container  .project-link{
+
+  border: 1px solid red;
+  background-color: red;
+  color: white;
+  padding: 2%;
+  font-weight: bolder;
+}
+.project-link:hover{
+  color: red;
+  background-color: white;
+  border: 1px solid red;
+}

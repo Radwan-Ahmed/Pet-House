@@ -7,7 +7,7 @@
     <title>Scarlet Snake</title>
 
     <!-- Link our CSS file -->
-    <link rel="stylesheet" href="/sub_pages/buy_pets/Snakes/scarlet_snake/scarlet_snake_Buy.css">
+    <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/Buying_page.css">
     <link rel="stylesheet" href="/style/style.css">
 </head>
 
@@ -34,7 +34,7 @@
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
 
-            <form action="/sub_pages/buy_pets/Snakes/scarlet_snake/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
+            <form action="/sub_pages/buy_pets/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
                     <legend>Selected Dog</legend>
 

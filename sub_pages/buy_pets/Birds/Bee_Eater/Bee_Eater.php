@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>Golden Retriever</title>
+    <title>Bee Eater</title>
 </head>
 <body>
 <nav>
@@ -24,24 +24,24 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/snakes/scarlet.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/birds/BeeEater.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title">Scarlet Snake</h2>
+          <h2 class="bio-title">Bee Eater</h2>
           <p class="bio-text">
           <span>Size</span>
           <p> 23-24 inches (male) 21.5-22.5 inches (female) </p>
           <span>Color</span>
           <p>Dark Golden,Golden, Light Golden</p>
           </p>
-          <a href="/sub_pages/buy_pets//Snakes/scarlet_snake/scarlet_snake_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Birds/Bee_Eater/Bee_Eater_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about Scarlet Snake</h2>
+        <h2>More about Bee Eater</h2>
         <p>
         The Golden Retriever, an exuberant Scottish gundog of great beauty, stands among America's most popular dog breeds. They are serious workers at hunting and field work, as guides for the blind, and in search-and-rescue, enjoy obedience and other competitive events, and have an endearing love of life when not at work. The Golden Retriever is a sturdy, muscular dog of medium size, famous for the dense, lustrous coat of gold that gives the breed its name. The broad head, with its friendly and intelligent eyes, short ears, and straight muzzle, is a breed hallmark. In motion, Goldens move with a smooth, powerful gait, and the feathery tail is carried, as breed fanciers say, with a 'merry action.' The most complete records of the development of the Golden Retriever are included in the record books that were kept from 1835 until about 1890 by the gamekeepers at the Guisachan (pronounced Gooeesicun) estate of Lord Tweedmouth at Inverness-Shire, Scotland. These records were released to public notice in Country Life in 1952, when Lord Tweedmouth's great-nephew, the sixth Earl of Ilchester, historian and sportsman, published material that had been left by his ancestor. They provided factual confirmation to the stories that had been handed down through generations. Goldens are outgoing, trustworthy, and eager-to-please family dogs, and relatively easy to train. They take a joyous and playful approach to life and maintain this puppyish behavior into adulthood. These energetic, powerful gundogs enjoy outdoor play. For a breed built to retrieve waterfowl for hours on end, swimming and fetching are natural pastimes.  
         </p>

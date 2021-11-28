@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>Black Rat</title>
+    <title>Boston Terrier</title>
 </head>
 <body>
 <nav>
@@ -24,24 +24,24 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/snakes/black_rat.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/dogs/BostonTerrier.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title">Black Rat</h2>
+          <h2 class="bio-title">Buston Terrier</h2>
           <p class="bio-text">
           <span>Size</span>
           <p> 15-17 inches </p>
           <span>Color</span>
           <p>Liver & White, Seal Brindle & White</p>
           </p>
-          <a href="/sub_pages/buy_pets/Snakes/black_rat/black_rat_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Dogs/Boston_Terrier/Boston_Terrier_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about Black Rat</h2>
+        <h2>More about Boston Terrier</h2>
         <p>
         The Boston Terrier is a lively little companion recognized by his tight tuxedo jacket, sporty but compact body, and the friendly glow in his big, round eyes. His impeccable manners have earned him the nickname 'The American Gentleman.' Boston Terriers are compact, short-tailed, well-balanced little dogs weighing no more than 25 pounds. The stylish 'tuxedo' coat can be white and either black, brindle, or seal (dark brown). The head is square, the muzzle is short, and the large, round eyes can shine with kindness, curiosity, or mischief. Ever alert to their surroundings, Bostons move with a jaunty, rhythmic step. It's a safe bet that a breed named for a city'¿the Havanese or Brussels Griffon, for instance'¿will make an excellent urban pet. Bostons are no exception: they are sturdy but portable, people-oriented, and always up for a brisk walk to the park or outdoor cafe. A bright dog with a natural gift for comedy, the dapper Bostonian is a steady source of smiles.
         </p>

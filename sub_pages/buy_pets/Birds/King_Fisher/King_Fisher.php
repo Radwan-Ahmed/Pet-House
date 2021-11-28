@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>Timber Rattle Snake</title>
+    <title>King Fisher</title>
 </head>
 <body>
 <nav>
@@ -24,24 +24,24 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/snakes/Timber_rattle_snake.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/birds/KingFisher.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title">Timber Rattle Snake</h2>
+          <h2 class="bio-title">King Fisher</h2>
           <p class="bio-text">
           <span>Size</span>
           <p>11-13 inches</p>
           <span>Color</span>
           <p> Brindle, Brindle & White, Cream, Fawn, Fawn & White</p>
           </p>
-          <a href="/sub_pages/buy_pets/Snakes/timber_rattle_snake/timber_rattle_snake_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Birds/King_Fisher/King_Fisher_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about Bulldog</h2>
+        <h2>More about King Fisher</h2>
         <p>
         The one-of-a-kind French Bulldog, with his large bat ears and even disposition, is one of the world's most popular small-dog breeds, especially among city dwellers. The Frenchie is playful, alert, adaptable, and completely irresistible. The French Bulldog resembles a Bulldog in miniature, except for the large, erect 'bat ears' that are the breed's trademark feature. The head is large and square, with heavy wrinkles rolled above the extremely short nose. The body beneath the smooth, brilliant coat is compact and muscular. The bright, affectionate Frenchie is a charmer. Dogs of few words, Frenchies don't bark much'¿but their alertness makes them excellent watchdogs. They happily adapt to life with singles, couples, or families, and do not require a lot of outdoor exercise. They get on well with other animals and enjoy making new friends of the human variety. It is no wonder that city folk from Paris to Peoria swear by this vastly amusing and companionable breed.
         </p>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>Milk Snake</title>
+    <title>Humming Bird</title>
 </head>
 <body>
 <nav>
@@ -24,24 +24,24 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/snakes/milk_snake.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/birds/HummingBird.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title"> Milk Snake </h2>
+          <h2 class="bio-title"> Humming Bird </h2>
           <p class="bio-text">
           <span>Size</span>
           <p> 60-65 cm for males and for females 55-60 cm </p>
           <span>Color</span>
           <p>tan/black and red/black</p>
           </p>
-          <a href="/sub_pages/buy_pets/Snakes/milk_snake/milk_snake_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Birds/HummingBird/HummingBird_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about German Shepherd</h2>
+        <h2>More about Humming Bird</h2>
         <p>
           German Shepard got originated from Germany. This is a new breed of dog that originated in the year 1899. These are called as working dogs that are developed for herding sheep. A German dog has a lot of strength, obedient, intelligent, and very well trained. It is called the second-most popular breed of dog in the United States and fourth-most popular in the United Kingdom.
 

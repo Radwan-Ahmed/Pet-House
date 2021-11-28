@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <!-- Important to make website responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Red Bellied Black Snake</title>
+    <title>German Shepherd</title>
 
     <!-- Link our CSS file -->
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/Buying_page.css">
@@ -29,35 +29,33 @@
     <!-- Navbar Section Ends Here -->
 
     <!-- fOOD sEARCH Section Starts Here -->
-    <section class="snake-search">
+    <section class="dog-search">
         <div class="container">
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
 
-            <form action="/sub_pages/buy_pets/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
+            <form action="/sub_pages/buy_pets/Dogs/Golden_Retriever/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend style="color: white;">Selected Dog</legend>
+                    <legend>Selected Dog</legend>
 
-                    <div class="snake-menu-img">
-                        <img src="/assets/snakes/red_bellied_black_snake.jpg" alt="Red Bellied Black Snake" class="img-responsive img-curve">
+                    <div class="dog-menu-img">
+                        <img src="/assets/dogs/GoldenRetriever.jpg" alt="Golden Retriver" class="img-responsive img-curve">
                     </div>
     
-                    <div class="snake-menu-desc">
-                    <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10005">
-                    <div class="order-label">Pet Name</div>
-                    <input type="text" name="name" class="input-responsive" readonly  value="Red Bellied Black Snake">
+                    <div class="dog-menu-desc">
+                    <div class="order-label">Dog ID</div>
+                    <input type="text" name="id" class="input-responsive" readonly  value="10004">
+                    <div class="order-label">Dog Name</div>
+                    <input type="text" name="name" class="input-responsive" readonly  value="Golden Retriver">
 
-                    <label for="color" style="font-weight: bold;">Choose a color:</label>
+                    <label for="color" style="font-weight: bold; color:white">Choose a color:</label>
                     <select id="color" name="color">
-                         <option value="Brindle">Brindle</option>
-                         <option value="Apricot">Apricot</option>
-                         <option value="black">Black</option>
-                         <option value="Blue">Blue</option>
+                         <option value="tan/black">tan/black</option>
+                         <option value="tan/black">red/black</option>
                     </select>
 
                     <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="450.50">
+                    <input type="text" name="price" class="input-responsive" readonly  value="500.50">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

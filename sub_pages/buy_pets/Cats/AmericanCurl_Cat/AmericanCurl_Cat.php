@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>Timber Rattle Snake</title>
+    <title>Bulldog</title>
 </head>
 <body>
 <nav>
@@ -24,17 +24,17 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/snakes/Timber_rattle_snake.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/dogs/bulldog.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title">Timber Rattle Snake</h2>
+          <h2 class="bio-title">Bulldog</h2>
           <p class="bio-text">
           <span>Size</span>
           <p>11-13 inches</p>
           <span>Color</span>
           <p> Brindle, Brindle & White, Cream, Fawn, Fawn & White</p>
           </p>
-          <a href="/sub_pages/buy_pets/Snakes/timber_rattle_snake/timber_rattle_snake_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Dogs/Bulldog/Bulldog_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>

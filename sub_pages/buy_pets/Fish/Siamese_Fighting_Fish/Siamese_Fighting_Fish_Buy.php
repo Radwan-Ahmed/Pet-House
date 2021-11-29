@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <!-- Important to make website responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>German Shepherd</title>
+    <title>Siamese Fighting Fish</title>
 
     <!-- Link our CSS file -->
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/Buying_page.css">
@@ -37,25 +37,27 @@
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
 
-            <form action="/sub_pages/buy_pets/Dogs/Alaskan_Malamute/database.php" method="POST" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)">
+            <form action="/sub_pages/buy_pets/database.php" method="POST" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)">
                 <fieldset>
-                    <legend>Selected Dog</legend>
+                    <legend>Selected Pet</legend>
 
                     <div class="dog-menu-img">
-                        <img src="/assets/dogs/alaskanmalamute.jpg" alt="Alaskan Malamute" class="img-responsive img-curve">
+                        <img src="/assets/fish/SiameseFightingFish.jpg" alt="Siamese Fighting Fish" class="img-responsive img-curve">
                     </div>
     
                     <div class="dog-menu-desc">
                     <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10006">
+                    <input type="text" name="id" class="input-responsive" readonly  value="4006">
                     <div class="order-label">Pet Name</div>
-                    <input type="text" name="name" class="input-responsive" readonly  value="Alaskan Malamute">
+                    <input type="text" name="name" class="input-responsive" readonly  value="Siamese Fighting Fish">
                     <div class="order-label">Price</div>
                     <input type="text" name="price" class="input-responsive" readonly  value="70.50$">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
-                         <option value="Black & White">Black & White</option>
-                         <option value="Gray & White">Gray & White</option>
+                         <option value="Red">Red</option>
+                         <option value="Pink">Pink</option>
+                         <option value="Blue">Blue</option>
+                         <option value="Green">Green</option>
                     </select>
                     <div class="order-label">Age(Month)</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>

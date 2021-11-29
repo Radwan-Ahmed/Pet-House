@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>Alaskan Malamute</title>
+    <title>Siamese Fighting Fish</title>
 </head>
 <body>
 <nav>
@@ -27,12 +27,16 @@
           <img  src="/assets/fish/SiameseFightingFish.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title"> Siamese Fighting Fish</h2>
+          <h2 class="bio-title">Siamese Fighting Fish</h2>
           <p class="bio-text">
           <span>Size</span>
-          <p> 23 to 25 inch</p>
+          <p> 3 inches</p>
           <span>Color</span>
-          <p>Black & White, Gray & White</p>
+          <p> red, pink, blue, green</p>
+          <span>Group</span>
+          <p>Freshwater</p>
+          <span>Aquarium Size</span>
+          <p>2 gallon</p>
           </p>
           <a href="/sub_pages/buy_pets/Fish/Siamese_Fighting_Fish/Siamese_Fighting_Fish_Buy.php"><button class="button">Place order</button></a>
           
@@ -43,45 +47,53 @@
 <section class="more-about">
         <h2>More about Siamese Fighting Fish</h2>
         <p>
-        An immensely strong, heavy-duty worker of spitz type, the Alaskan Malamute is an affectionate, loyal, and playful but dignified dog recognizable by his well-furred plumed tail carried over the back, erect ears, and substantial bone. The Alaskan Malamute stands 23 to 25 inches at the shoulder and weighs 75 to 85 pounds. Everything about Mals suggests their origin as an arctic sled dog: The heavy bone, deep chest, powerful shoulders, and dense, weatherproof coat all scream, 'I work hard for a living!' But their almond-shaped brown eyes have an affectionate sparkle, suggesting Mals enjoy snuggling with their humans when the workday is done. Mals are pack animals. And in your family 'pack,' the leader must be you. If a Mal doesn't respect you, he will wind up owning you instead of the other way around. Firm but loving training should begin in early puppyhood. That said, a well-behaved Mal is a joy to be with'¿playful, gentle, friendly, and great with kids.
-        </p>
+        After the common goldfish, betta fish, commonly referred to as Siamese fighting fish, are one of the most popular fish breeds purchased by budding freshwater fish hobbyists. Commonly sold in pet shops alongside small "betta bowls," these beautiful fish actually require more space than one might expect. Selling a betta in a vase with a plant has become a popular sales technique. However, a flower vase is not a suitable environment for the betta.
+      </p>
         
 </section>
 
 <section class="more-about">
-  <h2>Characteristics</h2>
+  <h2>Origin and Distribution</h2>
   <p>
-    It has a lot of strength, obedient, intelligent, and very well trained.
-  </p>
+  Bettas originate in the shallow waters of Thailand (formerly called Siam, hence their name), Indonesia, Malaysia, Vietnam, and parts of China. These areas are home to rice paddies, ponds, slow-moving streams, and swamps, all of which are home to bettas. Today bettas have been introduced into many locations, giving rise to non-native populations in a number of countries.
+  The common name, Siamese fighting fish, was coined due to the practice of organized fights between males, much like cockfights. These matches continue to this day, driven by the income from betting. In some locations males are bred specifically for aggression, to ensure better fights. 
+</p>
 </section>
 <section class="more-about">
-  <h2>Health</h2>
+  <h2>Colors and Markings</h2>
   <p>
-  A responsible breeder will screen breeding stock for health conditions such as hip dysplasia (a malformation of the hip joint that is the most common skeletal condition in dogs), elbow dysplasia, thrombopathia, chondrodysplasia ('dwarfism'), hypothyroidism, inherited polyneuropathy, von Willebrand's disease, and day blindness. As with all breeds, an Alaskan Malamute's ears should be checked regularly to remove foreign matter and avoid a buildup of wax, and his teeth should be brushed regularly.
-  </p>
+  The brilliant coloration and long flowing fins of the male betta make it one of the most well known of aquarium fish. Females are usually not as highly colored and have much shorter fins. In nature, this species is not usually brightly colored.
+  However, captive breeding programs have resulted in a wide variety of colors, including white, yellow, orange, red, pink, blue, green, turquoise, brown, and black. A myriad of combinations can be seen, from solid colors to those with different fin and body colors, to patterned colors. Fin types have also changed due to selective breeding. Veil tails have been joined by crown tails, deltas, fans, half moons, lyre, and split tails, to name a few.
+  Both sexes have a torpedo-shaped body and an upturned mouth geared for eating at the surface. Mature adults reach a size of two to three inches, with females being slightly smaller than the males. A unique feature of this species is the presence of a labyrinth organ that allows them to take oxygen from the atmosphere instead of from water, thus allowing them to survive in low-oxygen pools.
+</p>
 </section>
 <section class="more-about">
-  <h2>Grooming</h2>
+  <h2>Tankmates</h2>
   <p>
-  The thick, waterproof double coat of the Alaskan Malamute is beautifully adapted to harsh Arctic life, but it requires constant upkeep. A Malamute should be brushed every day with a pin brush and metal comb, all the while checking for mats, which can harbor fungus, and hot spots, which can become infected. Twice a year, during shedding season, an undercoat rake should be added to the regimen. Show Malamutes are often bathed weekly, but a pet Malamute can go six to eight weeks between baths. Conditioner can be used, in moderation, if the coat feels dry. As with all breeds, the Malamute's nails should be trimmed regularly.
+  Males cannot be kept together unless there are separators in the tank. Multiple females can generally be kept together without problems, and a single male can also be added to the mix. They can be kept with other peaceful species of fish, as long as they are small and are not fin-nipping types, such as tiger barbs.
 </p> 
 </section>
 <section class="more-about">
-  <h2>Exercise</h2>
+  <h2>Betta Habitat and Care</h2>
   <p>
-  While the Malamute was not bred for racing, he was bred to work. A strong, athletic dog with tremendous endurance, designed to carry heavy loads, a Mal requires daily exercise. Romping in a well-fenced yard or other enclosed space will suffice, but Malamutes also enjoy hiking, running, and swimming with their owners. And should the owner have sufficient time and interest, Malamutes often take part in agility and obedience trials, weight-pulling competitions, backpacking (yes, you can buy a backpack for your dog), recreational or competitive sledding, and skijoring (pulling a person who is on skis).
+  Bettas are one of the most recognized, most colorful, and often most controversial fish in the freshwater aquarium hobby. Debates rage about the appropriateness of keeping them in small bowls. To fully understand their needs it is important to become familiar with their native habitat, where they live in large rice paddies, shallow ponds, and even in very slow-moving streams. Although many fish keepers are aware that bettas come from shallow waters, the water temperature is often overlooked.
+  The home countries of the betta are tropical, which means the water temperature is quite warm, often into the 80s. Bettas thrive on heat and will become increasingly listless when the water temperature falls below 75 F. Water temperature is perhaps the biggest argument against keeping a betta in a tiny bowl, which cannot readily be heat controlled.  
+  Even though bettas do well in waters low in dissolved oxygen, that does not mean they require less oxygen than other fish. Bettas have a special respiratory organ that allows them to breathe air directly from the surface. In fact, they inherently must do so. In experiments where the labyrinth organ was removed, the fish died from suffocation even though the water was saturated with oxygen. For this reason, bettas must have access to the water surface to breathe air directly from the atmosphere.
+  Optimally, the water for keeping bettas healthy should be soft, warm, with a neutral to slightly acidic pH. Water movement should be kept to a minimum, which means that power filters and powerheads are not suitable. Bettas may be kept in a community tank as long as the water conditions are met, and if no aggressive or fin-nipping fish are present. However, only one male may be kept in each aquarium, unless they are separated by a barrier.
+  The use of plastic boxes that hang inside the aquarium is a suitable option for keeping more than one betta in a tank, or for keeping them in a tank with fish that might nip their fins. Females will generally not fight with each other and may be kept together in the same open space.
 </p>
 </section>
 <section class="more-about">
-  <h2>Training</h2>
+  <h2>Diet and Feeding</h2>
   <p>
-  Socialization and obedience training are necessary in order to prevent a Malamute from becoming pushy with children and other pets, or dominant over adults he or she doesn't respect. Malamutes are highly intelligent but also independent and willful, often to the point of stubbornness. While fairness and patience can yield a devoted, trustworthy companion, there are certain behaviors that may be impossible to train out of a Mal, such as digging, so any yard fencing must continue into the ground. And Malamutes are not especially suited to be guard dogs because they tend to be friendly with everyone they meet.
+  In nature, bettas subsist almost exclusively on insects and insect larvae. They are built with an upturned mouth that is well suited to snatching any hapless insect that might fall into the water. Internally their digestive system is geared for meat, having a much shorter alimentary track than vegetarian fish. For this reason, live foods are the ideal diet for the betta, however, they will adapt to eating flake foods and frozen or freeze-dried foods.
+  Brine shrimp, Daphnia, plankton, tubifex, glassworms, and beef heart, are all excellent options that may be found frozen or freeze-dried. If flake food is fed, it should be supplemented with frozen and freeze-dried foods, and if possible, live foods.
 </p>
 </section>
 <section class="more-about">
-  <h2>Nutrition</h2>
+  <h2>Gender Differences</h2>
   <p>
-  The Alaskan Malamute should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.
+  Males typically are more brilliantly colored and have longer and flowing fins. They also have a more distinct "beard" (under the gill coverings) and are larger overall than the females. Females have short fins and will display vertical stripes and an egg spot when ready to mate.
 </p>
 </section>
       <!-- Website scripts -->

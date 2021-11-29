@@ -30,9 +30,13 @@
           <h2 class="bio-title">Zebra Fish</h2>
           <p class="bio-text">
           <span>Size</span>
-          <p> 23-24 inches (male) 21.5-22.5 inches (female) </p>
+          <p> Medium </p>
           <span>Color</span>
-          <p>Dark Golden,Golden, Light Golden</p>
+          <p>silver-gold, purple</p>
+          <span>Group</span>
+          <p>Freshwater</p>
+          <span>Aquarium Size</span>
+          <p>All levels</p>
           </p>
           <a href="/sub_pages/buy_pets/Fish/Zebra_Fish/Zebra_Fish_Buy.php"><button class="button">Place order</button></a>
           
@@ -43,45 +47,50 @@
 <section class="more-about">
         <h2>More about Zebra Fish</h2>
         <p>
-        The Golden Retriever, an exuberant Scottish gundog of great beauty, stands among America's most popular dog breeds. They are serious workers at hunting and field work, as guides for the blind, and in search-and-rescue, enjoy obedience and other competitive events, and have an endearing love of life when not at work. The Golden Retriever is a sturdy, muscular dog of medium size, famous for the dense, lustrous coat of gold that gives the breed its name. The broad head, with its friendly and intelligent eyes, short ears, and straight muzzle, is a breed hallmark. In motion, Goldens move with a smooth, powerful gait, and the feathery tail is carried, as breed fanciers say, with a 'merry action.' The most complete records of the development of the Golden Retriever are included in the record books that were kept from 1835 until about 1890 by the gamekeepers at the Guisachan (pronounced Gooeesicun) estate of Lord Tweedmouth at Inverness-Shire, Scotland. These records were released to public notice in Country Life in 1952, when Lord Tweedmouth's great-nephew, the sixth Earl of Ilchester, historian and sportsman, published material that had been left by his ancestor. They provided factual confirmation to the stories that had been handed down through generations. Goldens are outgoing, trustworthy, and eager-to-please family dogs, and relatively easy to train. They take a joyous and playful approach to life and maintain this puppyish behavior into adulthood. These energetic, powerful gundogs enjoy outdoor play. For a breed built to retrieve waterfowl for hours on end, swimming and fetching are natural pastimes.  
-        </p>
+        Zebra danios are a favorite of freshwater fish hobbyists because of their ease of care. They are also prolific breeders and the easiest type of egglayers to breed. With its attractively striped, black and white zebra-patterned body, these fish are easy to recognize. Zebrafish are very durable and can withstand an impressive range of water temperatures and conditions. They will generally do just fine without a water heater as they are comfortable at temperatures down to the low 60s F. Unlike most fish species, they are loyal to their breeding partner and mate for life.
+      </p>
         
 </section>
 
 <section class="more-about">
-  <h2>Characteristics</h2>
+  <h2>Origin and Distribution</h2>
   <p>
-    It has  lot of strength, obedient, intelligent, and very well trained.
-  </p>
-</section>
-<section class="more-about">
-  <h2>Health</h2>
-  <p>
-  Goldens are generally healthy dogs, and responsible breeders will screen their breeding stock for health conditions including elbow and hip dysplasia; eye conditions such as juvenile cataracts, pigmentary uveitis, and progressive retinal atrophy; and certain heart diseases, including subvalvular aortic stenosis. The Golden's ears should be checked weekly for signs of infection, and the teeth should be brushed often.
+  Zebra danios were originally thought to have originated from a wider range that stretched from Myanmar in the east and Pakistan in the west; however, the current consensus is that this species originates from a much narrower range that is contained to parts of India and Bangladesh. 
+  Part of this change in distribution is due to the identification of similar species that were once misidentified as being Danio rerio. Damage to the environment that resulted in a reduction of habitable areas has also narrowed their natural range, even though wild zebra danios utilize a variety of habitats, ranging from fast-moving streams to slow-moving, nearly stagnant ponds.
+  Zebra danios available in the aquarium industry are now almost always captive-bred as zebras are easy and inexpensive to raise. While commercial breeding has provided a large and unlimited supply of this species, it has also resulted in a fish that is less robust than the original wild species.
 </p>
 </section>
 <section class="more-about">
-  <h2>Grooming</h2>
+  <h2>Colors and Markings</h2>
   <p>
-  Goldens heavily shed their thick, water-repellant double coat once or twice a year, and they also shed more moderately on a continuous basis. Most of the time, a good brushing-out with a slicker brush once or twice a week will remove much of the dead hair before it has a chance to fall onto the furniture. During times of heavy shedding, these brushing sessions turn into daily affairs. Baths help to loosen the dead hairs, but the dog must be completely dry before brushing begins. Otherwise, Goldens only need occasional baths to keep them clean. As with all breeds, the Golden's nails should be trimmed regularly.
+  The zebra danio is easily recognized by its distinctive horizontal stripes. Blue-purple horizontal stripes run from gill to tail, setting off the slim, compressed, silver-gold body of this attractive fish.
+  Albino, golden, veil-tailed and long-finned zebra danio varieties are available, as well as a popular leopard variety. The leopard strain is characterized by a sprinkling of black spots over the entire body. In the past, the leopard danio was considered a different species, but genetic studies have proven that it is merely a spotted variation of Danio rerio.
+</p>
+</section>
+<section class="more-about">
+  <h2>Tankmates</h2>
+  <p>
+  The small size of the zebra danio, no more than two and a half inches, makes them well suited to a community aquarium. Zebra danios are a peaceful fish that get along with most tankmates, however, they will nip fins of some species. Any fish with long flowing fins, such as angelfish, bettas, and guppies, are potential targets of the active zebra danio. Good potential tankmates may include barbs, corydoras catfish, similar-sized gouramis, loaches, and swordtails. 
+  All varieties thrive in schools and should never be kept as singles. They do best when kept in a school of five or more of their own kind. Groups of this fish can be hierarchal, and a pecking order may emerge in the school, but there is no infighting. Select tankmates that are similar in temperament and that can keep up with the fast-paced behavior of this danio. Mellower fish that need a less hectic environment can become stressed in their presence.
 </p> 
 </section>
 <section class="more-about">
-  <h2>Exercise</h2>
+  <h2>Zebra Danio Habitat and Care</h2>
   <p>
-  Like most Sporting breeds, Goldens need plenty of daily exercise. A Golden who doesn't get enough exercise is likely to engage in undesirable behavior. Goldens make great companions on long runs and bike rides, although consultation with a vet is recommended before starting strenuous or high-impact activities that might cause stress to the dog's bones and joints. Many Goldens happily get their exercise on hunting trips or at field trials, as well as by participating in canine sports such as agility, obedience, and tracking.
+  Zebras are primarily surface-dwelling fish that favor moving waters. Technically considered a cold-water fish, this fish prefers water in the 64 to 75 F range. However, they will adapt to a wide range of water conditions. If water temperatures are kept too low, they tend to become more susceptible to disease.
+  Zebras are extremely active, and although they have a preference for the upper levels of the aquarium, they will move throughout the entire tank. Provide them with diffuse lighting and an open swimming space with vegetation around the periphery of the habitat. A darker color substrate will help showcase the color of these fish and gives the habitat a more natural feel.
 </p>
 </section>
 <section class="more-about">
-  <h2>Training</h2>
+  <h2>Zebra Danio Diet and Feeding</h2>
   <p>
-  As with all breeds, early socialization and puppy training classes are recommended. Gently exposing the puppy to a wide variety of people, places, and situations between the ages of seven weeks and four months will help the Golden develop into a well-adjusted, well-mannered adult. Puppy training classes serve as part of the socialization process and help the owner learn to recognize and correct any bad habits that may be developing. Obedience training strengthens the bond between dog and owner'¿a Golden wants nothing more than to please his human. Golden Retrievers are outgoing, loyal, and eager to do your bidding, which makes them very easy to train.
+  Zebra danios are omnivorous, accepting almost any foods. Although undemanding in diet, they particularly enjoy small, live or frozen invertebrates and fresh vegetable matter.
 </p>
 </section>
 <section class="more-about">
-  <h2>Nutrition</h2>
+  <h2>Gender Differences</h2>
   <p>
-  A high-quality dog food appropriate for the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Some Goldens can become overweight, so watch your dog's calorie consumption and weight level. If you choose to give your dog treats, do so in moderation. Treats can be an important aid in training, but giving too many can cause obesity. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.
+  Both sexes have two pairs of barbels and the same stripes, but females are usually larger. Males are a bit smaller and more slender than females. Male zebras appear more torpedo-shaped, while females tend to have a larger belly. More full-bodied than the males, a female's belly balloons when it fills with eggs.
 </p>
 </section>
       <!-- Website scripts -->

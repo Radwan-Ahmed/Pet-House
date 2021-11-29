@@ -18,5 +18,5 @@ $pass = $_POST['pass'];
 $data = "INSERT INTO register (Name,Email,Password) VALUES ('$name','$email','$pass')";
 
 mysqli_query($connection,$data);
-header('location:login_signup.php');
+header('location:signup_sucessfull.php');
 ?>

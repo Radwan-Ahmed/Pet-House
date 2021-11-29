@@ -51,8 +51,8 @@
                     <input type="text" name="price" class="input-responsive" readonly  value="50.50$">
                     <label for="color" style="font-weight: bold; color:white">Choose a color:</label>
                     <select id="color" name="color">
-                         <option value="tan/black">tan/black</option>
-                         <option value="tan/black">red/black</option>
+                         <option value="silver-gold">silver-gold</option>
+                         <option value="purple">purple</option>
                     </select>
                     <div class="order-label">Age(Month)</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>

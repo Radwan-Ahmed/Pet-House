@@ -32,7 +32,7 @@
           <span>Size</span>
           <p> 3 inches</p>
           <span>Color</span>
-          <p> red, pink, blue, green</p>
+          <p> red, pink, blue, green, turquoise</p>
           <span>Group</span>
           <p>Freshwater</p>
           <span>Aquarium Size</span>

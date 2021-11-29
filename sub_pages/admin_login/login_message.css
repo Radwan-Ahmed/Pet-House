@@ -13,7 +13,7 @@
 @media screen and (max-width: 720px){
     .login_message{
         width: 100%;
-        background-color: rgb(255, 255, 255);
+        background-color: rgb(140, 240, 140);
         color: rgb(9, 99, 9);
         text-align: center;
         height: 100px;

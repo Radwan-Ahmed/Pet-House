@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/sub_pages/buy_pets/Dogs/German_Shepherd/German_Shepherd.css">
+    <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
     <title>Boston Terrier</title>
 </head>
 <body>
@@ -43,7 +43,7 @@
 <section class="more-about">
         <h2>More about Boston Terrier</h2>
         <p>
-        The Boston Terrier is a lively little companion recognized by his tight tuxedo jacket, sporty but compact body, and the friendly glow in his big, round eyes. His impeccable manners have earned him the nickname 'The American Gentleman.' Boston Terriers are compact, short-tailed, well-balanced little dogs weighing no more than 25 pounds. The stylish 'tuxedo' coat can be white and either black, brindle, or seal (dark brown). The head is square, the muzzle is short, and the large, round eyes can shine with kindness, curiosity, or mischief. Ever alert to their surroundings, Bostons move with a jaunty, rhythmic step. It's a safe bet that a breed named for a city'¿the Havanese or Brussels Griffon, for instance'¿will make an excellent urban pet. Bostons are no exception: they are sturdy but portable, people-oriented, and always up for a brisk walk to the park or outdoor cafe. A bright dog with a natural gift for comedy, the dapper Bostonian is a steady source of smiles.
+        The Boston Terrier is a lively little companion recognized by his tight tuxedo jacket, sporty but compact body, and the friendly glow in his big, round eyes. His impeccable manners have earned him the nickname 'The American Gentleman.' Boston Terriers are compact, short-tailed, well-balanced little dogs weighing no more than 25 pounds. The stylish 'tuxedo' coat can be white and either black, brindle, or seal (dark brown). The head is square, the muzzle is short, and the large, round eyes can shine with kindness, curiosity, or mischief. Ever alert to their surroundings, Bostons move with a jaunty, rhythmic step. It's a safe bet that a breed named for a city'¿the Havanese or Brussels Griffon, for instance'¿will make an excellent urban pet. Bostons are no exception: they are sturdy but portable, people-oriented, and always up for a brisk walk to the park or outdoor cafe. A bright pet with a natural gift for comedy, the dapper Bostonian is a steady source of smiles.
         </p>
         
 </section>
@@ -63,7 +63,7 @@
 <section class="more-about">
   <h2>Grooming</h2>
   <p>
-  The Boston's sleek, fine coat does shed somewhat, though not a lot. Weekly brushing with a soft-bristle brush, a rubber grooming mitt or tool, or a hound glove will help to remove the loose hair. A good brushing also promotes new hair growth and distributes skin oils throughout the coat to help keep it healthy. Bostons need to be bathed only occasionally, unless they get into something messy. As with all breeds, the Boston's nails should be trimmed regularly, because overly long nails can cause the dog pain as well as problems walking and running.
+  The Boston's sleek, fine coat does shed somewhat, though not a lot. Weekly brushing with a soft-bristle brush, a rubber grooming mitt or tool, or a hound glove will help to remove the loose hair. A good brushing also promotes new hair growth and distributes skin oils throughout the coat to help keep it healthy. Bostons need to be bathed only occasionally, unless they get into something messy. As with all breeds, the Boston's nails should be trimmed regularly, because overly long nails can cause the pet pain as well as problems walking and running.
 </p> 
 </section>
 <section class="more-about">
@@ -81,7 +81,7 @@
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-  The Boston Terrier should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.
+  The Boston Terrier should do well on a high-quality pet food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the pet's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your pet's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your pet's weight or diet. Clean, fresh water should be available at all times.
 </p>
 </section>
       <!-- Website scripts -->

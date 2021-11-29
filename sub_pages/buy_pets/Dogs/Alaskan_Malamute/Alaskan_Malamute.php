@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/sub_pages/buy_pets/Dogs/German_Shepherd/German_Shepherd.css">
+    <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
     <title>Alaskan Malamute</title>
 </head>
 <body>
@@ -43,7 +43,7 @@
 <section class="more-about">
         <h2>More about Alaskan Malamute</h2>
         <p>
-        An immensely strong, heavy-duty worker of spitz type, the Alaskan Malamute is an affectionate, loyal, and playful but dignified dog recognizable by his well-furred plumed tail carried over the back, erect ears, and substantial bone. The Alaskan Malamute stands 23 to 25 inches at the shoulder and weighs 75 to 85 pounds. Everything about Mals suggests their origin as an arctic sled dog: The heavy bone, deep chest, powerful shoulders, and dense, weatherproof coat all scream, 'I work hard for a living!' But their almond-shaped brown eyes have an affectionate sparkle, suggesting Mals enjoy snuggling with their humans when the workday is done. Mals are pack animals. And in your family 'pack,' the leader must be you. If a Mal doesn't respect you, he will wind up owning you instead of the other way around. Firm but loving training should begin in early puppyhood. That said, a well-behaved Mal is a joy to be with'¿playful, gentle, friendly, and great with kids.
+        An immensely strong, heavy-duty worker of spitz type, the Alaskan Malamute is an affectionate, loyal, and playful but dignified pet recognizable by his well-furred plumed tail carried over the back, erect ears, and substantial bone. The Alaskan Malamute stands 23 to 25 inches at the shoulder and weighs 75 to 85 pounds. Everything about Mals suggests their origin as an arctic sled pet: The heavy bone, deep chest, powerful shoulders, and dense, weatherproof coat all scream, 'I work hard for a living!' But their almond-shaped brown eyes have an affectionate sparkle, suggesting Mals enjoy snuggling with their humans when the workday is done. Mals are pack animals. And in your family 'pack,' the leader must be you. If a Mal doesn't respect you, he will wind up owning you instead of the other way around. Firm but loving training should begin in early puppyhood. That said, a well-behaved Mal is a joy to be with'¿playful, gentle, friendly, and great with kids.
         </p>
         
 </section>
@@ -69,7 +69,7 @@
 <section class="more-about">
   <h2>Exercise</h2>
   <p>
-  While the Malamute was not bred for racing, he was bred to work. A strong, athletic dog with tremendous endurance, designed to carry heavy loads, a Mal requires daily exercise. Romping in a well-fenced yard or other enclosed space will suffice, but Malamutes also enjoy hiking, running, and swimming with their owners. And should the owner have sufficient time and interest, Malamutes often take part in agility and obedience trials, weight-pulling competitions, backpacking (yes, you can buy a backpack for your dog), recreational or competitive sledding, and skijoring (pulling a person who is on skis).
+  While the Malamute was not bred for racing, he was bred to work. A strong, athletic pet with tremendous endurance, designed to carry heavy loads, a Mal requires daily exercise. Romping in a well-fenced yard or other enclosed space will suffice, but Malamutes also enjoy hiking, running, and swimming with their owners. And should the owner have sufficient time and interest, Malamutes often take part in agility and obedience trials, weight-pulling competitions, backpacking (yes, you can buy a backpack for your pet), recreational or competitive sledding, and skijoring (pulling a person who is on skis).
 </p>
 </section>
 <section class="more-about">
@@ -81,7 +81,7 @@
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-  The Alaskan Malamute should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.
+  The Alaskan Malamute should do well on a high-quality pet food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the pet's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your pet's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your pet's weight or diet. Clean, fresh water should be available at all times.
 </p>
 </section>
       <!-- Website scripts -->

@@ -103,7 +103,7 @@ fieldset{
 
 /* CSS for Food SEarch Section */
 
-.dog-search{
+.pet-search{
     background-color: rgb(110, 110, 107);
     background-size: cover;
     background-repeat: no-repeat;
@@ -111,7 +111,7 @@ fieldset{
     padding: 20% 0;
 }
 
-.dog-search input[type="search"]{
+.pet-search input[type="search"]{
     width: 50%;
     padding: 1%;
     font-size: 1rem;
@@ -133,11 +133,11 @@ fieldset{
 
 
 /* CSS for Food Menu */
-.dog-menu{
+.pet-menu{
     background-color: #ececec;
     padding: 4% 0;
 }
-.dog-menu-box{
+.pet-menu-box{
     width: 43%;
     margin: 1%;
     padding: 2%;
@@ -146,22 +146,22 @@ fieldset{
     border-radius: 15px;
 }
 
-.dog-menu-img{
+.pet-menu-img{
     width: 20%;
     float: left;
 }
 
-.dog-menu-desc{
+.pet-menu-desc{
     width: 70%;
     float: left;
     margin-left: 8%;
 }
 
-.dog-price{
+.pet-price{
     font-size: 1.2rem;
     margin: 2% 0;
 }
-.dog-detail{
+.pet-detail{
     font-size: 1rem;
     color: #747d8c;
 }
@@ -222,7 +222,7 @@ select option{
         text-align: center;
     }
 
-    .dog-search input[type="search"]{
+    .pet-search input[type="search"]{
         width: 90%;
         padding: 2%;
         margin-bottom: 3%;
@@ -233,7 +233,7 @@ select option{
         padding: 2%;
     }
 
-    .dog-search{
+    .pet-search{
         padding: 10% 0;
     }
 
@@ -248,11 +248,11 @@ select option{
         margin: 4% auto;
     }
 
-    .dog-menu{
+    .pet-menu{
         padding: 20% 0;
     }
 
-    .dog-menu-box{
+    .pet-menu-box{
         width: 90%;
         padding: 5%;
         margin-bottom: 5%;

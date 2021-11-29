@@ -43,7 +43,7 @@
 <section class="more-about">
         <h2>More about King Fisher</h2>
         <p>
-        The one-of-a-kind French Bulldog, with his large bat ears and even disposition, is one of the world's most popular small-dog breeds, especially among city dwellers. The Frenchie is playful, alert, adaptable, and completely irresistible. The French Bulldog resembles a Bulldog in miniature, except for the large, erect 'bat ears' that are the breed's trademark feature. The head is large and square, with heavy wrinkles rolled above the extremely short nose. The body beneath the smooth, brilliant coat is compact and muscular. The bright, affectionate Frenchie is a charmer. Dogs of few words, Frenchies don't bark much'¿but their alertness makes them excellent watchdogs. They happily adapt to life with singles, couples, or families, and do not require a lot of outdoor exercise. They get on well with other animals and enjoy making new friends of the human variety. It is no wonder that city folk from Paris to Peoria swear by this vastly amusing and companionable breed.
+        The one-of-a-kind French Bulldog, with his large bat ears and even disposition, is one of the world's most popular small-pet breeds, especially among city dwellers. The Frenchie is playful, alert, adaptable, and completely irresistible. The French Bulldog resembles a Bulldog in miniature, except for the large, erect 'bat ears' that are the breed's trademark feature. The head is large and square, with heavy wrinkles rolled above the extremely short nose. The body beneath the smooth, brilliant coat is compact and muscular. The bright, affectionate Frenchie is a charmer. Dogs of few words, Frenchies don't bark much'¿but their alertness makes them excellent watchdogs. They happily adapt to life with singles, couples, or families, and do not require a lot of outdoor exercise. They get on well with other animals and enjoy making new friends of the human variety. It is no wonder that city folk from Paris to Peoria swear by this vastly amusing and companionable breed.
         </p>
         
 </section>
@@ -81,7 +81,7 @@
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-  A high-quality dog food appropriate to the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Frenchies are prone to obesity, which can damage their physical structure and puts them at higher risk for some of the breed's health issues, so it is vital to watch their calorie intake and weight. If you choose to give your dog treats, do so in moderation. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods high in fat. Learn about which human foods are safe for dogs and which are not. Check with your vet if you have any concerns about your dog's weight or diet.
+  A high-quality pet food appropriate to the pet's age (puppy, adult, or senior) will have all the nutrients the breed needs. Frenchies are prone to obesity, which can damage their physical structure and puts them at higher risk for some of the breed's health issues, so it is vital to watch their calorie intake and weight. If you choose to give your pet treats, do so in moderation. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods high in fat. Learn about which human foods are safe for dogs and which are not. Check with your vet if you have any concerns about your pet's weight or diet.
 </p>
 </section>
       <!-- Website scripts -->

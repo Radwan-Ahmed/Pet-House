@@ -32,7 +32,7 @@
     <!-- Navbar Section Ends Here -->
 
     <!-- fOOD sEARCH Section Starts Here -->
-    <section class="dog-search">
+    <section class="pet-search">
         <div class="container">
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
@@ -41,11 +41,11 @@
                 <fieldset>
                     <legend>Selected Pet</legend>
 
-                    <div class="dog-menu-img">
+                    <div class="pet-menu-img">
                         <img src="/assets/Cats/AbyssinianCat.jpg" alt="AbyssinianCat" class="img-responsive img-curve">
                     </div>
     
-                    <div class="dog-menu-desc">
+                    <div class="pet-menu-desc">
                     <div class="order-label">Pet ID</div>
                     <input type="text" name="id" class="input-responsive" readonly  value="2001">
                     <div class="order-label">Pet Name</div>

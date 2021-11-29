@@ -43,7 +43,7 @@
 <section class="more-about">
         <h2>More about Humming Bird</h2>
         <p>
-          German Shepard got originated from Germany. This is a new breed of dog that originated in the year 1899. These are called as working dogs that are developed for herding sheep. A German dog has a lot of strength, obedient, intelligent, and very well trained. It is called the second-most popular breed of dog in the United States and fourth-most popular in the United Kingdom.
+          German Shepard got originated from Germany. This is a new breed of pet that originated in the year 1899. These are called as working dogs that are developed for herding sheep. A German pet has a lot of strength, obedient, intelligent, and very well trained. It is called the second-most popular breed of pet in the United States and fourth-most popular in the United Kingdom.
 
           The breed height starts at 60-65 cm for males, and for females, height was 55-60 cm. They mostly observe in tan/black and red/black. They have a double coat. The outer layer sheds all around, and the thick undercoat is very dense. The life span of the German Shepard is 10.5 years.
         </p>
@@ -53,7 +53,7 @@
 <section class="more-about">
   <h2>Characteristics</h2>
   <p>
-    German dog has a lot of strength, obedient, intelligent, and very well trained.
+    German pet has a lot of strength, obedient, intelligent, and very well trained.
   </p>
 </section>
 <section class="more-about">
@@ -71,7 +71,7 @@
 <section class="more-about">
   <h2>Exercise</h2>
   <p>
-    As a very active and athletic breed, the German Shepherd requires lots of exercise for his physical and mental well-being. A dog who is not exercised enough will become frustrated and likely to develop undesirable behaviors. With a puppy, you can start with short daily walks, as well as play sessions in a safely fenced area. Remember to not let the dog off leash, as even the best-trained dog can become distracted and not follow every command. Participating in canine activities such as agility, herding, tracking, and dock diving provides excellent physical and mental exercise and is fun and rewarding for both dog and owner.
+    As a very active and athletic breed, the German Shepherd requires lots of exercise for his physical and mental well-being. A pet who is not exercised enough will become frustrated and likely to develop undesirable behaviors. With a puppy, you can start with short daily walks, as well as play sessions in a safely fenced area. Remember to not let the pet off leash, as even the best-trained pet can become distracted and not follow every command. Participating in canine activities such as agility, herding, tracking, and dock diving provides excellent physical and mental exercise and is fun and rewarding for both pet and owner.
   </p>
 </section>
 <section class="more-about">
@@ -83,7 +83,7 @@
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-    A high-quality dog food appropriate for the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Table scraps can cause digestive upset, so only give them sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Small pieces of biscuit or the dog's kibble can be used as treats for training. If you are feeding a high-quality food, vitamin and mineral supplements should not be necessary, although adding small quantities of yogurt, cooked vegetables, or eggs to the food can be beneficial. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.
+    A high-quality pet food appropriate for the pet's age (puppy, adult, or senior) will have all the nutrients the breed needs. Table scraps can cause digestive upset, so only give them sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Small pieces of biscuit or the pet's kibble can be used as treats for training. If you are feeding a high-quality food, vitamin and mineral supplements should not be necessary, although adding small quantities of yogurt, cooked vegetables, or eggs to the food can be beneficial. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your pet's weight or diet.
   </p>
 </section>
       <!-- Website scripts -->

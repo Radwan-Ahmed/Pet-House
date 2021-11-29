@@ -34,7 +34,7 @@
         <img src="/assets/dogs/GermanShepherd.jpg" alt="GermanShepherd" loading="lazy"  class="project-pic">
         <h3 class="project-title">German Shepherd</h3>
         <p class="project-details">
-          German Shepard got originated from Germany.A German dog has a lot of strength, obedient, intelligent, and very well trained.
+          German Shepard got originated from Germany.A German pet has a lot of strength, obedient, intelligent, and very well trained.
         </p>
         <a href="/sub_pages/buy_pets/Dogs/German_Shepherd/German_Shepherd.php" target="_Self" class="project-link">Check it Out</a>
       </div>
@@ -70,7 +70,7 @@
         <img src="/assets/dogs/Poodle.jpg"  alt="Poodle"  loading="lazy"  class="project-pic">
         <h3 class="project-title">Poodle</h3>
         <p class="project-details">
-          These are mostly seen in France and Germany. It is very active, alert, intelligent, faithful, and even trained.. It is a water type of dog.
+          These are mostly seen in France and Germany. It is very active, alert, intelligent, faithful, and even trained.. It is a water type of pet.
         </p>
         <a href="/sub_pages/buy_pets/Dogs/Poodle/Poodle.php" target="_self" class="project-link">Check it Out</a>
       </div>
@@ -79,7 +79,7 @@
         <img src="/assets/dogs/alaskanmalamute.jpg"  alt="alaskanmalamute"  loading="lazy"  class="project-pic">
         <h3 class="project-title">Alaskan Malamute</h3>
         <p class="project-details">
-          It got originated from the United States Alaska. It is a large breed of domestic dog. Its haul is very freight because of this strength and endurance.
+          It got originated from the United States Alaska. It is a large breed of domestic pet. Its haul is very freight because of this strength and endurance.
         </p>
         <a href="/sub_pages/buy_pets/Dogs/Alaskan_Malamute/Alaskan_Malamute.php" target="_self" class="project-link">Check it Out</a>
       </div>
@@ -104,7 +104,7 @@
           <img  src="/assets/Cats/AmericanBobtailCat.jpg" alt="AmericanBobtail Cat"  loading="lazy"  class="project-pic">
         <h3 class="project-title">American Bobtail Cat</h3>
         <p class="project-details">
-          The American Bobtail is an athletic breed that looks like a bobtailed wildcat and has many dog-like tendencies.They get along well with children.
+          The American Bobtail is an athletic breed that looks like a bobtailed wildcat and has many pet-like tendencies.They get along well with children.
         </p>
         <a href="/sub_pages/buy_pets/Cats/American_Bobtail_Cat/American_Bobtail_Cat.php" target="_self" class="project-link">Check it Out</a>
       </div>
@@ -316,7 +316,7 @@
         <a href="/sub_pages/buy_pets/Snakes/timber_rattle_snake/timber_rattle_snake.php" target="_self" class="project-link">Check it Out</a>
       </div>
       <div class="project-container project-card">
-        <img src="/assets/snakes/red_bellied_black_snake.jpg"  alt="snake"  loading="lazy"  class="project-pic">
+        <img src="/assets/snakes/red_bellied_black_snake.jpg"  alt="pet"  loading="lazy"  class="project-pic">
         <h3 class="project-title">Red Bellied Black Snake</h3>
         <p class="project-details">
           Snake

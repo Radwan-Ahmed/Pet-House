@@ -29,7 +29,7 @@
     <!-- Navbar Section Ends Here -->
 
     <!-- fOOD sEARCH Section Starts Here -->
-    <section class="dog-search">
+    <section class="pet-search">
         <div class="container">
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
@@ -38,24 +38,23 @@
                 <fieldset>
                     <legend>Selected Birds</legend>
 
-                    <div class="dog-menu-img">
+                    <div class="pet-menu-img">
                         <img src="/assets/birds/BeeEater.jpg" alt="Bee Eater" class="img-responsive img-curve">
                     </div>
     
-                    <div class="dog-menu-desc">
+                    <div class="pet-menu-desc">
                     <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10004">
+                    <input type="text" name="id" class="input-responsive" readonly  value="1005">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="Bee Eater">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="100.50$">
                     <label for="color" style="font-weight: bold; color:white">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="tan/black">tan/black</option>
                          <option value="tan/black">red/black</option>
                     </select>
 
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="500.50">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

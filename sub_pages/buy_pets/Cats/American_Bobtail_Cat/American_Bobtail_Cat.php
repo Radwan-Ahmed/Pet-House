@@ -49,7 +49,7 @@ One of the breed’s most unusual traits is their shortened tail. No two tails a
 
 Bobtails aren’t as vocal as some breeds and tend to communicate their pleasure with chirps, clicks and trills, as well as the standard purr and meow.
 
-A devoted family companion, American Bobtails make great family pets. They get along well with older children as well as other pets, including the family dog.
+A devoted family companion, American Bobtails make great family pets. They get along well with older children as well as other pets, including the family pet.
      </p>
         
 </section>

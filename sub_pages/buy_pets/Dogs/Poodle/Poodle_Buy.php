@@ -7,7 +7,7 @@
     <title>Poodle</title>
 
     <!-- Link our CSS file -->
-    <link rel="stylesheet" href="/sub_pages/buy_pets/Dogs/Poodle/Poodle_Buy.css">
+    <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/Buying_page.css">
     <link rel="stylesheet" href="/style/style.css">
 </head>
 
@@ -29,20 +29,20 @@
     <!-- Navbar Section Ends Here -->
 
     <!-- fOOD sEARCH Section Starts Here -->
-    <section class="dog-search">
+    <section class="pet-search">
         <div class="container">
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
 
-            <form action="/sub_pages/buy_pets/Dogs/Poodle/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
+            <form action="/sub_pages/buy_pets/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
                     <legend style="color: white;">Selected Pet</legend>
 
-                    <div class="dog-menu-img">
+                    <div class="pet-menu-img">
                         <img src="/assets/dogs/Poodle.jpg" alt="Poodle" class="img-responsive img-curve">
                     </div>
     
-                    <div class="dog-menu-desc">
+                    <div class="pet-menu-desc">
                     <div class="order-label">Pet ID</div>
                     <input type="text" name="id" class="input-responsive" readonly  value="3005">
                     <div class="order-label">Pet Name</div>

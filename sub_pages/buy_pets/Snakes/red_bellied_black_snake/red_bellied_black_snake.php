@@ -43,7 +43,7 @@
 <section class="more-about">
         <h2>More about Red Bellied Black Snake</h2>
         <p>
-        Whether Standard, Miniature, or Toy, and either black, white, or apricot, the Poodle stands proudly among dogdom¿s true aristocrats. Beneath the curly, low-allergen coat is an elegant athlete and companion for all reasons and seasons. Poodles come in three size varieties: Standards should be more than 15 inches tall at the shoulder; Miniatures are 15 inches or under; Toys stand no more than 10 inches. All three varieties have the same build and proportions. At dog shows, Poodles are usually seen in the elaborate Continental Clip. Most pet owners prefer the simpler Sporting Clip, in which the coat is shorn to follow the outline of the squarely built, smoothly muscled body. Forget those old stereotypes of Poodles as sissy dogs. Poodles are eager, athletic, and wickedly smart ¿real dogs¿ of remarkable versatility. The Standard, with his greater size and strength, is the best all-around athlete of the family, but all Poodles can be trained with great success.
+        Whether Standard, Miniature, or Toy, and either black, white, or apricot, the Poodle stands proudly among dogdom¿s true aristocrats. Beneath the curly, low-allergen coat is an elegant athlete and companion for all reasons and seasons. Poodles come in three size varieties: Standards should be more than 15 inches tall at the shoulder; Miniatures are 15 inches or under; Toys stand no more than 10 inches. All three varieties have the same build and proportions. At pet shows, Poodles are usually seen in the elaborate Continental Clip. Most pet owners prefer the simpler Sporting Clip, in which the coat is shorn to follow the outline of the squarely built, smoothly muscled body. Forget those old stereotypes of Poodles as sissy dogs. Poodles are eager, athletic, and wickedly smart ¿real dogs¿ of remarkable versatility. The Standard, with his greater size and strength, is the best all-around athlete of the family, but all Poodles can be trained with great success.
       </p>
         
 </section>
@@ -63,7 +63,7 @@
 <section class="more-about">
   <h2>Grooming</h2>
   <p>
-  Unless you plan to keep your Poodle clipped in a short trim, you will need to learn how to brush how to brush him daily to keep his coat from matting. If you do not brush and comb a full-coated Poodle completely to the skin, the hair will mat near the roots and will have to be shaved off to start all over with new growth. Most pet owners opt to keep the Poodle in a shorter trim. Some owners learn to do this clipping and trimming themselves, while others choose to take their dog to a professional dog groomer every four to six weeks for a bath, grooming, and nail trim. The breed¿s relatively nonshedding coat makes the breed a good choice for people with allergies.
+  Unless you plan to keep your Poodle clipped in a short trim, you will need to learn how to brush how to brush him daily to keep his coat from matting. If you do not brush and comb a full-coated Poodle completely to the skin, the hair will mat near the roots and will have to be shaved off to start all over with new growth. Most pet owners opt to keep the Poodle in a shorter trim. Some owners learn to do this clipping and trimming themselves, while others choose to take their pet to a professional pet groomer every four to six weeks for a bath, grooming, and nail trim. The breed¿s relatively nonshedding coat makes the breed a good choice for people with allergies.
 </p> 
 </section>
 <section class="more-about">
@@ -81,7 +81,7 @@
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-  No matter which size Poodle has stolen your heart, you will want to feed him or her the best possible dog food. Your vet or breeder can help you decide on the right food for your dog¿s age, activity level, and size. Some dogs are prone to getting overweight, so watch your dog¿s calorie consumption and weight level. If you choose to give your dog treats, do so in moderation. Treats can be an important aid in training, but giving too many can cause obesity. Never feed a dog cooked bones or fatty table scraps. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog¿s weight or diet.
+  No matter which size Poodle has stolen your heart, you will want to feed him or her the best possible pet food. Your vet or breeder can help you decide on the right food for your pet¿s age, activity level, and size. Some dogs are prone to getting overweight, so watch your pet¿s calorie consumption and weight level. If you choose to give your pet treats, do so in moderation. Treats can be an important aid in training, but giving too many can cause obesity. Never feed a pet cooked bones or fatty table scraps. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your pet¿s weight or diet.
 </p>
 </section>
       <!-- Website scripts -->

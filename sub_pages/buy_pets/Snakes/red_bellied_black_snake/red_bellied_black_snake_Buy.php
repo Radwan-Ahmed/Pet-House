@@ -29,7 +29,7 @@
     <!-- Navbar Section Ends Here -->
 
     <!-- fOOD sEARCH Section Starts Here -->
-    <section class="snake-search">
+    <section class="pet-search">
         <div class="container">
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
@@ -38,11 +38,11 @@
                 <fieldset>
                     <legend style="color: white;">Selected Dog</legend>
 
-                    <div class="snake-menu-img">
+                    <div class="pet-menu-img">
                         <img src="/assets/snakes/red_bellied_black_snake.jpg" alt="Red Bellied Black Snake" class="img-responsive img-curve">
                     </div>
     
-                    <div class="snake-menu-desc">
+                    <div class="pet-menu-desc">
                     <div class="order-label">Pet ID</div>
                     <input type="text" name="id" class="input-responsive" readonly  value="10005">
                     <div class="order-label">Pet Name</div>

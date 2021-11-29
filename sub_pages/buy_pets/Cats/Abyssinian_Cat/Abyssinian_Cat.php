@@ -43,7 +43,7 @@
 <section class="more-about">
         <h2>More about  AbyssinianCat</h2>
         <p>
-        Known for their unique ticked coat, Abyssinians have the appearance of a wildcat. They are athletic, alert, very active, and intensely curious with all that surrounds them. Fiercely loyal and highly people oriented, Abyssinians are referred to as the cat of the dog world. They are generally great with children, dogs, and other cats.
+        Known for their unique ticked coat, Abyssinians have the appearance of a wildcat. They are athletic, alert, very active, and intensely curious with all that surrounds them. Fiercely loyal and highly people oriented, Abyssinians are referred to as the cat of the pet world. They are generally great with children, dogs, and other cats.
 
 Activity Level:
 Abyssinians are extremely graceful, lithe, and elegant. They show a lively interest in their surroundings and are famous for their playful and curious disposition. Most Abys will stay kitten-like throughout much of their life.

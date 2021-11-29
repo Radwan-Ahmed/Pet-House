@@ -30,7 +30,7 @@
         </div>
 
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
+          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
           <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
           <img src="/assets/fish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
@@ -42,7 +42,7 @@
         </div>
 
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
+          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
           <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
           <img src="/assets/fish/EuropeanSeabass.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
@@ -55,7 +55,7 @@
 
         
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
+          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
           <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
           <img src="/assets/fish/Goldfish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
@@ -67,7 +67,7 @@
         </div>
 
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
+          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
           <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
           <img src="/assets/fish/NeonTetra.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
@@ -80,7 +80,7 @@
 
         
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
+          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
           <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
           <img src="/assets/fish/Oscar.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
@@ -93,7 +93,7 @@
         </div>
 
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
+          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
           <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
           <img src="/assets/fish/SiameseFightingFish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
@@ -106,7 +106,7 @@
         </div>
 
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
+          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
           <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
           <img src="/assets/fish/ZebraFish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>

@@ -31,7 +31,7 @@
     <!-- Navbar Section Ends Here -->
 
     <!-- fOOD sEARCH Section Starts Here -->
-    <section class="dog-search">
+    <section class="pet-search">
         <div class="container">
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
@@ -40,24 +40,22 @@
                 <fieldset>
                     <legend style="color: white;" >Selected Pet</legend>
 
-                    <div class="dog-menu-img">
+                    <div class="pet-menu-img">
                         <img src="/assets/birds/Parrots.jpg" alt="Parrots" class="img-responsive img-curve">
                     </div>
     
-                    <div class="dog-menu-desc">
+                    <div class="pet-menu-desc">
                     <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10003" style="color: black;">
+                    <input type="text" name="id" class="input-responsive" readonly  value="1003" style="color: black;">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="Parrot" style="color: black;">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="150.75$" style="color: black;">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="Liver & White">Liver & White</option>
                          <option value="Seal Brindle & White">Seal Brindle & White</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="350.75 " style="color: black;">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

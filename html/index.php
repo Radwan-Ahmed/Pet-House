@@ -68,7 +68,7 @@
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="/assets/snake.jpg" class="d-block w-100" alt="...">
+                <img src="/assets/pet.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                   <h5>Snake</h5>
                   <p>Snakes are Beautiful but dangerous</p>
@@ -97,7 +97,7 @@
 <section class="more-about">
         <h2>More About Pets</h2>
         <p>
-          WE LOVE OUR pets. Two thirds of Americans live with an animal, and according to a 2011 Harris poll, 90 percent of pet owners think of their dogs and cats as members of the family. These relationships have benefits. For example, in a survey by the American Animal Hospital Association, 40 percent of married female dog owners reported they received more emotional support from their pet than from their husband or their kids. The pet products industry calls this “the humanization of pets.” One of my colleagues recently spent $12,000 on cancer treatments for her best friend Asha, a Labrador retriever.
+          WE LOVE OUR pets. Two thirds of Americans live with an animal, and according to a 2011 Harris poll, 90 percent of pet owners think of their dogs and cats as members of the family. These relationships have benefits. For example, in a survey by the American Animal Hospital Association, 40 percent of married female pet owners reported they received more emotional support from their pet than from their husband or their kids. The pet products industry calls this “the humanization of pets.” One of my colleagues recently spent $12,000 on cancer treatments for her best friend Asha, a Labrador retriever.
         </p>
         <p>
           There are many health benefits of owning a pet. They can increase opportunities to exercise, get outside, and socialize. Regular walking or playing with pets can decrease blood pressure, cholesterol levels, and triglyceride levels.  Pets can help manage loneliness and depression by giving us companionship. Most households in the United States have at least one pet.
@@ -118,7 +118,7 @@
           </div>
   
           <div class="second-set animate__animated animate__pulse">
-            <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
+            <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
             <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
             <img src="/assets/fish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
           </div>
@@ -146,7 +146,7 @@
             <a href="/sub_pages/buy_pets/buy.php" target="_self" class="project-link">Check it Out</a>
           </div>
           <div class="project-container project-card">
-            <img src="/assets/snake.jpg"  alt="fish"  loading="lazy"  class="project-pic">
+            <img src="/assets/pet.jpg"  alt="fish"  loading="lazy"  class="project-pic">
             <h3 class="project-title">Snake</h3>
             <p class="project-details">
               Snake

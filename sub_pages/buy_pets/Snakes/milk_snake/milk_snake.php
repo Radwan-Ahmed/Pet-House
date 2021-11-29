@@ -30,9 +30,11 @@
           <h2 class="bio-title"> Milk Snake </h2>
           <p class="bio-text">
           <span>Size</span>
-          <p> 60-65 cm for males and for females 55-60 cm </p>
+          <p> 14 to 60 inches long </p>
           <span>Color</span>
-          <p>tan/black and red/black</p>
+          <p>Black/White</p>
+          <span>SCIENTIFIC NAME</span>
+          <p>Lamproletis genus</p>
           </p>
           <a href="/sub_pages/buy_pets/Snakes/milk_snake/milk_snake_Buy.php"><button class="button">Place order</button></a>
           
@@ -41,50 +43,64 @@
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about German Shepherd</h2>
+        <h2>More about Milk Snake</h2>
         <p>
-          German Shepard got originated from Germany. This is a new breed of pet that originated in the year 1899. These are called as working dogs that are developed for herding sheep. A German pet has a lot of strength, obedient, intelligent, and very well trained. It is called the second-most popular breed of pet in the United States and fourth-most popular in the United Kingdom.
-
-          The breed height starts at 60-65 cm for males, and for females, height was 55-60 cm. They mostly observe in tan/black and red/black. They have a double coat. The outer layer sheds all around, and the thick undercoat is very dense. The life span of the German Shepard is 10.5 years.
+        Milk and king snakes are native in southern parts of Canada, throughout the U.S., and Central and South America. These snakes are beautiful, docile, and nonvenomous. Milk snakes are a subspecies of 45 kinds of kingsnake; there are 24 subspecies of milk snakes alone. These snakes are easy to keep and are a good beginner snake. They vary significantly in size, color, and patterns.1﻿ Many subspecies have striking, beautiful patterns, including some that have a natural defense of mimicking the red, black, and yellow color banding of venomous coral snakes. A key difference is nonvenomous king and milk have black bands that touch red bands, while coral snakes have yellow bands that touch red.
         </p>
         
 </section>
 
 <section class="more-about">
-  <h2>Characteristics</h2>
+  <h2>Kingsnake and Milk Snake Behavior and Temperament</h2>
   <p>
-    German pet has a lot of strength, obedient, intelligent, and very well trained.
-  </p>
+  All varieties of kingsnakes are easy to handle after they get used to you. They are low maintenance, requiring minimal care throughout the week.This snake rarely strikes; usually, if it does, it confused a finger with a prey item. A king or milk snake bite does not hurt. When it feels threatened, it will try to get away from you. It will also excrete a musky scent from its anal glands (smelly but not harmful) or rattle the tip of its tail, much like a rattlesnake would as a warning.
+ After letting a new snake settle for a few days after bringing it home, you can start handling your snake. Be gentle and persistent, with daily short sessions at first to build trust. It shouldn't take too long for the snake to get comfortable with handling. Do not handle snakes immediately after eating; it can cause them to regurgitate their meal.
+ These snakes are constrictors. They may try to wrap themselves around your arm, but they cannot harm you. To unwrap them, start from the tail end as their head tends to be stronger.
+</p>
 </section>
 <section class="more-about">
-  <h2>Health</h2>
+  <h2>Housing Your Kingsnake or Milk Snake</h2>
   <p>
-    Most German Shepherds are healthy dogs. A responsible breeder will screen breeding stock for health conditions such as degenerative myelopathy and elbow and hip dysplasia. German Shepherd Dogs can experience bloat, a sudden and life-threatening swelling of the abdomen, and owners should educate themselves about its symptoms and what to do should bloat occur.
-  </p>
+  A secure cage is vitally important.1﻿ Kingsnakes are notorious for testing their enclosures and escaping from the smallest of spaces. The enclosure will require a securely latched top. These snakes can sneak through tiny gaps that seem too small. Leave no possible gaps, holes, or thin breaks in the cage top.
+  King and milk snakes should be kept solitary.1﻿ Kingsnakes might eat other cage mates.
+  Hatchlings or the smaller New Mexico milk snake can live in a 10-gallon aquarium tank. However, medium-sized (36 inches) adult snakes need a 20-gallon tank, and larger, full-grown snakes (60 inches) would thrive in a larger enclosure, such as a 60-gallon tank. King and milk snakes are quite active and need the room. Snakes that have the room to stretch may also have a reduced incidence of respiratory infections.
+  Several hiding spots should be provided:1﻿ Half rounds of bark, commercial rock hides, overturned flower pots, half coconut shells, and even cardboard boxes can be used. To give the cage a naturalistic feel, you can include rocks and branches in the cage.
+  You will need to clean the cage entirely at least every 6 months. In between these overhauls, spot clean or scoop out feces, and clean the water bowl every day.
+</p>
 </section>
 <section class="more-about">
-  <h2>Grooming</h2>
+  <h2>Heat</h2>
   <p>
-    The German Shepherd Dog has a medium-length, double coat consisting of a dense, harsh, and close-lying outer coat with a softer undercoat. The breed is easy to maintain, usually requiring just a quick brushing every few days or so to help remove loose hairs, but they do shed more profusely once or twice a year. During these periods, more frequent brushing will help control the amount of hair that ends up around the house and on the furniture. The German Shepherd only needs an occasional bath. It is important to trim or grind his nails every month if they are not worn down naturally, as overly long nails can cause pain and structural issues.
-  </p> 
+  Reptiles are cold-blooded creatures that need to self-regulate their body temperature by moving between warmer and cooler spots in their habitat. Provide a thermal gradient or range of temperatures in their enclosure from 70 to 85 F (21 to 28 C) during the day with a 10 to 15°F (2 to 5°C) drop at night.1﻿ There should be hiding spots provided at each end of the gradient.
+  Most owners prefer under-tank heaters (placed under half the tank) to provide the heat. Never use electric hot rocks; they can cause burns. If using overhead heating, radiant heat sources like ceramic heat emitters are better than incandescent bulbs for nocturnal animals.
+</p> 
 </section>
 <section class="more-about">
-  <h2>Exercise</h2>
+  <h2>Light</h2>
   <p>
-    As a very active and athletic breed, the German Shepherd requires lots of exercise for his physical and mental well-being. A pet who is not exercised enough will become frustrated and likely to develop undesirable behaviors. With a puppy, you can start with short daily walks, as well as play sessions in a safely fenced area. Remember to not let the pet off leash, as even the best-trained pet can become distracted and not follow every command. Participating in canine activities such as agility, herding, tracking, and dock diving provides excellent physical and mental exercise and is fun and rewarding for both pet and owner.
-  </p>
+  Primarily nocturnal, they do not need lighting as long as your room gets enough light to indicate the switch between night and day. Most nocturnal animals do not need ultraviolet light, although a UVB (5.0) fluorescent light can be beneficial to aid in calcium absorption from their food items.
+</p>
 </section>
 <section class="more-about">
-  <h2>Training</h2>
+  <h2>Humidity</h2>
   <p>
-    Early socialization and puppy training classes are vital, and continuing obedience training will help ensure that the pup will grow to be an adaptable and well-mannered adult. The German Shepherd is a highly intelligent companion and an extraordinary worker. Consistency and positive, reward-based training will yield excellent results. He is extremely bonded to his people, so he is happiest when he lives with his family. He should be raised in the household and exposed to the family's activities. The German Shepherd Dog Club of America provides detailed training advice for owners on the club's website.
-  </p>
+  King and milk snakes do not need high humidity levels—40 to 60 percent is sufficient. A hygrometer or humidity gauge will help you check moisture levels. In most cases, a shallow dish of water in the cage should be adequate. During shedding, they may benefit from added humidity. If you notice your snake is entering a shed phase (skin appears filmy, eyes turn a milky blue color), mist the cage lightly or provide a humidity box. You can make a simple humidity box out of a covered plastic container, cut a hole in the lid large enough for the snake to climb in, and line it with moistened sphagnum moss.
+</p>
 </section>
 <section class="more-about">
-  <h2>Nutrition</h2>
+  <h2>Food and Water</h2>
   <p>
-    A high-quality pet food appropriate for the pet's age (puppy, adult, or senior) will have all the nutrients the breed needs. Table scraps can cause digestive upset, so only give them sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Small pieces of biscuit or the pet's kibble can be used as treats for training. If you are feeding a high-quality food, vitamin and mineral supplements should not be necessary, although adding small quantities of yogurt, cooked vegetables, or eggs to the food can be beneficial. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your pet's weight or diet.
-  </p>
+  King and milk snakes are fed mice or baby rats.1﻿ As a general rule, feed the snake the size of a mouse that is roughly equal to the width of the snake at its widest part (excluding the head). Feed hatchlings and juveniles (subadult) twice a week. Adults can be fed adult mice (or weanling rats) once a week. If the snake is too lean (body not rounded, can see ribs or backbone) feed twice a week. Many king and milk snakes tend to eat less in the fall and winter.
+  As with other pet snakes, feed pre-killed mice (usually frozen from a pet supply source) to ensure that the prey cannot injure the snake. Thaw frozen mice to room temperature and feed in a separate feeding cage (with no substrate) or their cage if it has a safe flooring.
+  Since snakes often defecate in the water, clean out the dish daily, and refresh with
+</p>
+</section>
+<section class="more-about">
+  <h2>Common Health Problems</h2>
+  <p>
+  The biggest threat to a pet kingsnake or milk snake is a respiratory infection. These snakes can get colds or pneumonia, which is often caused by a problem with the temperature in the cage. Symptoms can include bubbling or gurgling at the mouth, gasping, or mucus around the nose.
+  If you notice regurgitated food items in the cage, it can be caused by handling the snake too soon after feeding. It is not necessarily a sign of illness, although it can be. Other reasons for regurgitated food: The food offered was too large, or the enclosure is too cool. If regurgitation recurs, take the snake to an exotics veterinarian.
+</p>
 </section>
       <!-- Website scripts -->
       <script src="/js/app.js"></script>

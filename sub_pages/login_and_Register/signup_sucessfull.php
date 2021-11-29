@@ -45,7 +45,7 @@
 <body>
 <!--Login Message-->
 <div class="login_message" id="login_message">
-        <h2>Signup Sucessfull... Now Login Here</h2>
+        <h2>Signup Sucessfully... Now Login Here</h2>
     </div>
 
 <div class="container" id="container">

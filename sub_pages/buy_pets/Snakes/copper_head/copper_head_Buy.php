@@ -39,7 +39,7 @@
 
             <form action="/sub_pages/buy_pets/database.php" method="POST" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)">
                 <fieldset>
-                    <legend>Selected Dog</legend>
+                    <legend>Selected Pet</legend>
 
                     <div class="pet-menu-img">
                         <img src="/assets/snakes/copper_head.jpg" alt="Copper Head" class="img-responsive img-curve">
@@ -47,18 +47,16 @@
     
                     <div class="pet-menu-desc">
                     <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10006">
+                    <input type="text" name="id" class="input-responsive" readonly  value="5002">
                     <div class="order-label">Pet Name</div>
-                    <input type="text" name="name" class="input-responsive" readonly  value="Copper Head">
-
+                    <input type="text" name="name" class="input-responsive" readonly  value="Copper Head">                    
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="170.50$">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="Black & White">Black & White</option>
                          <option value="Gray & White">Gray & White</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="470.50$">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

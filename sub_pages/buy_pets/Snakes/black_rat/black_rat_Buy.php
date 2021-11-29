@@ -38,7 +38,7 @@
 
             <form action="/sub_pages/buy_pets/database.php"  class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend style="color: white;" >Selected Snake</legend>
+                    <legend style="color: white;" >Selected Pet</legend>
 
                     <div class="pet-menu-img">
                         <img src="/assets/snakes/black_rat.jpg" alt="black_rat" class="img-responsive img-curve">
@@ -46,18 +46,16 @@
     
                     <div class="pet-menu-desc">
                     <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10003" style="color: black;">
+                    <input type="text" name="id" class="input-responsive" readonly  value="5001" style="color: black;">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="black rat" style="color: black;">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="250.75$" style="color: black;">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
-                         <option value="Liver & White">Liver & White</option>
-                         <option value="Seal Brindle & White">Seal Brindle & White</option>
+                         <option value="Black">Black</option>
+                         <option value="Black & Golden">Black & Golden</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="350.75 " style="color: black;">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

@@ -38,23 +38,21 @@
                 <fieldset>
                     <legend>Selected Dog</legend>
                     <div class="pet-menu-img">
-                        <img src="/assets/snakes/milk_snake.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                        <img src="/assets/snakes/milk_snake.jpg" alt="milk_snake" class="img-responsive img-curve">
                     </div>
     
                     <div class="pet-menu-desc">
                     <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10001">
+                    <input type="text" name="id" class="input-responsive" readonly  value="5003">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="Milk Snake">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="200.50$">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="tan/black">tan/black</option>
                          <option value="tan/black">red/black</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="400.50 ">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

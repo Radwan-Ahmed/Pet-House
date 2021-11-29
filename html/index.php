@@ -68,7 +68,7 @@
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="/assets/pet.jpg" class="d-block w-100" alt="...">
+                <img src="/assets/snake.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                   <h5>Snake</h5>
                   <p>Snakes are Beautiful but dangerous</p>

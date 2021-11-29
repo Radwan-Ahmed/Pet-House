@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/order_page.css">
-    <title>Bulldog</title>
+    <title>Oscars</title>
 </head>
 <body>
 <nav>
@@ -24,64 +24,70 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/dogs/bulldog.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/fish/Oscar.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title">Bulldog</h2>
+          <h2 class="bio-title">Oscars</h2>
           <p class="bio-text">
           <span>Size</span>
-          <p>11-13 inches</p>
+          <p> Large</p>
           <span>Color</span>
-          <p> Brindle, Brindle & White, Cream, Fawn, Fawn & White</p>
+          <p> black, brown, orange and red</p>
+          <span>Group</span>
+          <p>Freshwater</p>
+          <span>Aquarium Size</span>
+          <p>Aquarium Size</p>
           </p>
-          <a href="/sub_pages/buy_pets/Dogs/Bulldog/Bulldog_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Fish/Oscar/Oscar_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about Bulldog</h2>
+        <h2>More about Oscars</h2>
         <p>
-        The one-of-a-kind French Bulldog, with his large bat ears and even disposition, is one of the world's most popular small-dog breeds, especially among city dwellers. The Frenchie is playful, alert, adaptable, and completely irresistible. The French Bulldog resembles a Bulldog in miniature, except for the large, erect 'bat ears' that are the breed's trademark feature. The head is large and square, with heavy wrinkles rolled above the extremely short nose. The body beneath the smooth, brilliant coat is compact and muscular. The bright, affectionate Frenchie is a charmer. Dogs of few words, Frenchies don't bark much'¿but their alertness makes them excellent watchdogs. They happily adapt to life with singles, couples, or families, and do not require a lot of outdoor exercise. They get on well with other animals and enjoy making new friends of the human variety. It is no wonder that city folk from Paris to Peoria swear by this vastly amusing and companionable breed.
-        </p>
+        Oscar fish are one of the most popular species of freshwater fish in the aquarium hobby today. They are a highly intelligent species of fish and often display highly individual personalities, making them a favorite among many aquarists. They are characterized by their thick, rectangular shaped bodies and comparatively large heads. Oscars are a large species of fish and can easily reach 18 inches in length. They are also highly territorial as adults and should ideally be raised by more experienced aquarists.
+      </p>
         
 </section>
 
 <section class="more-about">
-  <h2>Characteristics</h2>
+  <h2>Origins</h2>
   <p>
-    It has a lot of strength, obedient, intelligent, and very well trained.
-  </p>
-</section>
-<section class="more-about">
-  <h2>Health</h2>
-  <p>
-  Because of their front-heavy structure, Frenchies cannot swim and should never be left unattended near a tub, pool, or body of water. Like all flat-faced breeds, Frenchies are prone to breathing problems and do poorly in hot or humid weather. Flat-faced breeds are also more sensitive to anesthesia. Frenchies occasionally have eye conditions such as cherry eye, juvenile cataracts, or entropion, and skin allergies and autoimmune skin disorders also are known to occur. A responsible breeder will take advantage of available tests to screen breeding stock for conditions that can affect the breed.
+  Oscars originate in the Amazon River basin in South America.
 </p>
 </section>
 <section class="more-about">
-  <h2>Grooming</h2>
+  <h2>Color</h2>
   <p>
-  The Frenchie's short coat sheds minimally. Weekly brushing with a medium-bristle brush, a rubber grooming mitt or tool, or a hound glove will help to remove shed hair and keep him looking his best. Brushing promotes new hair growth and distributes skin oils throughout the coat to help keep it healthy. A Frenchie's facial folds should be kept clean and dry. The Frenchie's nailsshould be trimmed regularly, as overly long nails can cause him pain.
+  The primary colorations that Oscars occur in are black, brown, orange and red. Albino varieties have also been bred selectively over the years
+</p>
+</section>
+<section class="more-about">
+  <h2>Maintenance and care</h2>
+  <p>
+  Although Oscars are often sold as young specimens of 2 inches or less, they can quickly outgrow most medium sized aquariums. They are also active swimmers and require aquariums with large open swimming space. Therefore it is important to house them in fairly large aquariums of 100 gallons or more. Oscars are also a very destructive species of fish and will uproot and destroy any plant life in the aquarium in a matter of hours. They are also fond of rearranging rocks and other aquarium decorations. This should be taken into account when decorating the aquarium.
+  Although the level of aggression can differ from individual to individual, Oscars are generally regarded as an aggressive and highly territorial species. They will often cordon off a specific area of the tank as their own territory and vehemently guard it against other fish regardless of species. Oscars are also aggressive fighters and will sometimes lock jaws and engage in long, drawn out wrestling matches to establish dominance. They are also highly predatory and will readily attack and devour smaller species of fish that they can fit in their mouths. They sometimes also attack larger, less aggressive species of fish like angelfish. For this reason they are best housed with large, moderately aggressive South American cichlids, large species of catfish or pacu.
+  Oscars produce a significant amount of waste and require aquariums with very strong filtration systems to prevent diseases caused by poor water quality.
 </p> 
 </section>
 <section class="more-about">
-  <h2>Exercise</h2>
+  <h2>Feeding</h2>
   <p>
-  A short walk or outdoor play session with their owner each day should provide enough exercise to keep the French Bulldog in shape. Frenchies enjoy participating in canine sports such as obedience, agility, and rally. As a flat-faced breed, however, they are prone to breathing difficulties and should never be allowed to exert themselves in hot or humid weather.
+  Oscars are carnivores and can be fed on a diet of fish, worms, shellfish, shrimp and occasional servings of beef heart. They will also accept most meat-based pellet foods.
 </p>
 </section>
 <section class="more-about">
-  <h2>Training</h2>
+  <h2>Breeding</h2>
   <p>
-  Early socialization and puppy training classes are recommended. Exposing the puppy to a wide variety of people, places, and situations will help him develop into a well-adjusted adult. Puppy training classes serve as part of the socialization process, promote good behavior, and help the owner learn to recognize and correct bad habits. Frenchies have big personalities and can need a fair amount of training to make them civilized companions. They can be stubborn, but at heart they're people pleasers and therefore easy to train. The proper motivation (such as food) and making a game of the process will ensure their cooperation.
+  Oscars generally do not display obvious signs of sexual dimorphism and are often very difficult to sex. The best way to obtain a breeding pair is to raise 6 or more juveniles in a large aquarium and to let a pair form naturally. Once a breeding pair is formed, they will try to guard an extremely large territory in the aquarium and can sometimes even kill off most of their tank mates. Oscars should be provided with large, flat surfaces to lay their eggs on. Once the eggs are laid, both parents guard the spawn zealously. They also provide parental care for the fry after they are free swimming. 
 </p>
 </section>
 <section class="more-about">
-  <h2>Nutrition</h2>
+  <h2>Aquarium varieties</h2>
   <p>
-  A high-quality dog food appropriate to the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Frenchies are prone to obesity, which can damage their physical structure and puts them at higher risk for some of the breed's health issues, so it is vital to watch their calorie intake and weight. If you choose to give your dog treats, do so in moderation. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods high in fat. Learn about which human foods are safe for dogs and which are not. Check with your vet if you have any concerns about your dog's weight or diet.
+  Zebra Oscar, Tiger Oscar, Red Oscar, Albino Oscar, Veiltail Oscar, etc.
 </p>
 </section>
       <!-- Website scripts -->

@@ -50,16 +50,14 @@
                     <input type="text" name="id" class="input-responsive" readonly  value="10006">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="Alaskan Malamute">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="70.50$">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="Black & White">Black & White</option>
                          <option value="Gray & White">Gray & White</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="470.50$">
-                    <div class="order-label">Age</div>
+                    <div class="order-label">Age(Month)</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>

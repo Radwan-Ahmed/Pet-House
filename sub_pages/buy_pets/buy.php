@@ -19,7 +19,6 @@
       <li><a href="#Birds" class="nav-link">Birds</a></li>
       <li><a href="#Fish" class="nav-link">Fish</a></li>
       <li><a href="#Snake" class="nav-link">Snake</a></li>
-      <li><a href="#Horse_Rabbit" class="nav-link">Rabbit and others</a></li>
     </ul>
     <button class="burger-menu" id="burger-menu">
       <ion-icon class="bars" name="menu-outline"></ion-icon>

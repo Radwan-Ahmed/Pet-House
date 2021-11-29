@@ -26,7 +26,7 @@ if(mysqli_connect_errno()) {
         $count = mysqli_num_rows($result);  
           
         if($count == 1){  
-            header('location:/html/index.php'); 
+            header('location:/sub_pages/admin_login/login_message.php'); 
         }  
         else{  
             echo "<script type='text/javascript'>alert('Invalid email or password!');

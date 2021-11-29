@@ -49,16 +49,14 @@
                     <input type="text" name="id" class="input-responsive" readonly  value="10003" style="color: black;">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="European Seabass" style="color: black;">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="50.75$" style="color: black;">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="Liver & White">Liver & White</option>
                          <option value="Seal Brindle & White">Seal Brindle & White</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="350.75 " style="color: black;">
-                    <div class="order-label">Age</div>
+                    <div class="order-label">Age(Month)</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>

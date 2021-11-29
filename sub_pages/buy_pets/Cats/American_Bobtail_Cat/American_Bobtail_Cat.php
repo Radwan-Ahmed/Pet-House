@@ -30,9 +30,9 @@
           <h2 class="bio-title"> American Bobtail Cat</h2>
           <p class="bio-text">
           <span>Size</span>
-          <p> 15-17 inches </p>
+          <p>  Medium-sized cat </p>
           <span>Color</span>
-          <p>Liver & White, Seal Brindle & White</p>
+          <p>chocolate, cinnamon, blue, lilac</p>
           </p>
           <a href="/sub_pages/buy_pets/Cats/American_Bobtail_Cat/American_Bobtail_Cat_Buy.php"><button class="button">Place order</button></a>
           
@@ -42,46 +42,65 @@
     <!-- More about -->
 <section class="more-about">
         <h2>More about American Bobtail Cat</h2>
-        <p>
-        The Boston Terrier is a lively little companion recognized by his tight tuxedo jacket, sporty but compact body, and the friendly glow in his big, round eyes. His impeccable manners have earned him the nickname 'The American Gentleman.' Boston Terriers are compact, short-tailed, well-balanced little dogs weighing no more than 25 pounds. The stylish 'tuxedo' coat can be white and either black, brindle, or seal (dark brown). The head is square, the muzzle is short, and the large, round eyes can shine with kindness, curiosity, or mischief. Ever alert to their surroundings, Bostons move with a jaunty, rhythmic step. It's a safe bet that a breed named for a city'¿the Havanese or Brussels Griffon, for instance'¿will make an excellent urban pet. Bostons are no exception: they are sturdy but portable, people-oriented, and always up for a brisk walk to the park or outdoor cafe. A bright dog with a natural gift for comedy, the dapper Bostonian is a steady source of smiles.
-        </p>
+     <p>
+     Confident and friendly, the American Bobtail is a highly intelligent breed with a clown-like personality. Despite their wild expression similar to that of a bobtailed wildcat, this rare and athletic breed is friendly and affectionate. Their subtle personality that is warm and loving rather than demanding or in your face. They are good travelers and make wonderful therapy cats.
+
+One of the breed’s most unusual traits is their shortened tail. No two tails are identical so they are truly the hallmark of the individual and are proudly held above the back when the cat is alert, often wagging to express the cat's mood.
+
+Bobtails aren’t as vocal as some breeds and tend to communicate their pleasure with chirps, clicks and trills, as well as the standard purr and meow.
+
+A devoted family companion, American Bobtails make great family pets. They get along well with older children as well as other pets, including the family dog.
+     </p>
         
 </section>
 
 <section class="more-about">
   <h2>Characteristics</h2>
   <p>
-    It also has a lot of strength, obedient, intelligent, and very well trained.
-  </p>
+  Easygoing, Affectionate,Adaptable
+</p>
 </section>
 <section class="more-about">
   <h2>Health</h2>
   <p>
-  Protecting the Boston Terrier's beautiful but prominent eyes is of special importance. The eyes should be checked daily for redness or irritation. Some owners carry saline eye drops to flush out dust or debris. Responsible breeders screen their stock for eye problems such as cataracts, corneal ulcers, and glaucoma, as well as deafness and patellar luxation (comparable to a "trick knee" in humans). Like all flat-faced breeds, Bostons can experience difficulty breathing when not given adequate shelter from excessive heat or humidity.
+  American Bobtails are generally healthy. All cats have the potential to develop genetic health problems, just as all people have the potential to inherit diseases.
 </p>
 </section>
 <section class="more-about">
   <h2>Grooming</h2>
   <p>
-  The Boston's sleek, fine coat does shed somewhat, though not a lot. Weekly brushing with a soft-bristle brush, a rubber grooming mitt or tool, or a hound glove will help to remove the loose hair. A good brushing also promotes new hair growth and distributes skin oils throughout the coat to help keep it healthy. Bostons need to be bathed only occasionally, unless they get into something messy. As with all breeds, the Boston's nails should be trimmed regularly, because overly long nails can cause the dog pain as well as problems walking and running.
+  The American Bobtail’s coat doesn’t usually mat or tangle as long as it is combed or brushed a couple of times a week to remove dead hair and keep his coat healthy and shiny. Bobtails tend to shed more in the spring and fall, so it can be a good idea to groom them more frequently during those times. However, a bath is rarely necessary unless they’ve gotten into something messy.
+
+As with all cats, keep their nails trimmed every couple of weeks and teeth brushed regularly with a vet-approved toothpaste.
+
+Be sure to wipe the corners of the eyes with a soft, damp cloth to remove any discharge. Use a separate area of the cloth for each eye so you don’t run the risk of spreading any infection.
+
+Check their ears weekly. If they look dirty, wipe them out with a cotton ball or soft damp cloth moistened with a 50-50 mixture of cider vinegar and warm water. Avoid using cotton swabs, which can damage the interior of the ear.
 </p> 
 </section>
 <section class="more-about">
   <h2>Exercise</h2>
   <p>
-  The Boston's need for exercise varies from individual to individual. For some, a brisk walk once or twice a day will be enough. Others will need more time to run and play every day and let off steam. Simply letting a Boston out into the backyard doesn't count as exercise'¿he'll probably just sit at the door waiting to be let back in. Left alone for long periods of time, a Boston will tend to become frustrated and develop undesirable behaviors. Throw him a ball or a toy, however, and he'll be more than happy to play with you. Participation in canine sports such as agility, obedience, flyball, and rally is an enjoyable way to channel the breed's energy.
+  
 </p>
 </section>
 <section class="more-about">
   <h2>Training</h2>
   <p>
-  As with all breeds, early socialization and puppy training classes are recommended. Socialization'¿gently exposing the puppy to a wide variety of people, places, and situations'¿will help him develop into a well-adjusted, well-mannered adult. Treats make a great training incentive. Many Bostons are quite sensitive; for them, gentle corrections should be followed by warmth and praise.
+  The American Bobtail is a highly intelligent breed. Most are moderately active without being either a couch potato or constantly in motion. They can easily be taught to walk on a leash and play fetch. Challenge their brain by teaching them tricks and providing puzzle toys that reward with kibble or treats when they learn how to manipulate them
+
 </p>
 </section>
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-  The Boston Terrier should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.
+  The American Bobtail’s coat doesn’t usually mat or tangle as long as it is combed or brushed a couple of times a week to remove dead hair and keep his coat healthy and shiny. Bobtails tend to shed more in the spring and fall, so it can be a good idea to groom them more frequently during those times. However, a bath is rarely necessary unless they’ve gotten into something messy.
+
+As with all cats, keep their nails trimmed every couple of weeks and teeth brushed regularly with a vet-approved toothpaste.
+
+Be sure to wipe the corners of the eyes with a soft, damp cloth to remove any discharge. Use a separate area of the cloth for each eye so you don’t run the risk of spreading any infection.
+
+Check their ears weekly. If they look dirty, wipe them out with a cotton ball or soft damp cloth moistened with a 50-50 mixture of cider vinegar and warm water. Avoid using cotton swabs, which can damage the interior of the ear.
 </p>
 </section>
       <!-- Website scripts -->

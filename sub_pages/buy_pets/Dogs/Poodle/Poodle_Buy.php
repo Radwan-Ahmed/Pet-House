@@ -36,18 +36,19 @@
 
             <form action="/sub_pages/buy_pets/Dogs/Poodle/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend style="color: white;">Selected Dog</legend>
+                    <legend style="color: white;">Selected Pet</legend>
 
                     <div class="dog-menu-img">
                         <img src="/assets/dogs/Poodle.jpg" alt="Poodle" class="img-responsive img-curve">
                     </div>
     
                     <div class="dog-menu-desc">
-                    <div class="order-label">Dog ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10005">
-                    <div class="order-label">Dog Name</div>
+                    <div class="order-label">Pet ID</div>
+                    <input type="text" name="id" class="input-responsive" readonly  value="3005">
+                    <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="Poodle">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="450.50$">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="Brindle">Brindle</option>
@@ -55,9 +56,6 @@
                          <option value="black">Black</option>
                          <option value="Blue">Blue</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="450.50">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

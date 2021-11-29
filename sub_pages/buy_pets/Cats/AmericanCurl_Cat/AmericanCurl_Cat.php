@@ -30,9 +30,9 @@
           <h2 class="bio-title">American Curl Cat</h2>
           <p class="bio-text">
           <span>Size</span>
-          <p>11-13 inches</p>
+          <p>Small-to-medium sized</p>
           <span>Color</span>
-          <p> Brindle, Brindle & White, Cream, Fawn, Fawn & White</p>
+          <p>Curls are available in all colors and patterns</p>
           </p>
           <a href="/sub_pages/buy_pets/Cats/AmericanCurl_Cat/AmericanCurl_Cat_Buy.php"><button class="button">Place order</button></a>
           
@@ -43,45 +43,48 @@
 <section class="more-about">
         <h2>More about American Curl Cat</h2>
         <p>
-        The one-of-a-kind French Bulldog, with his large bat ears and even disposition, is one of the world's most popular small-dog breeds, especially among city dwellers. The Frenchie is playful, alert, adaptable, and completely irresistible. The French Bulldog resembles a Bulldog in miniature, except for the large, erect 'bat ears' that are the breed's trademark feature. The head is large and square, with heavy wrinkles rolled above the extremely short nose. The body beneath the smooth, brilliant coat is compact and muscular. The bright, affectionate Frenchie is a charmer. Dogs of few words, Frenchies don't bark much'¿but their alertness makes them excellent watchdogs. They happily adapt to life with singles, couples, or families, and do not require a lot of outdoor exercise. They get on well with other animals and enjoy making new friends of the human variety. It is no wonder that city folk from Paris to Peoria swear by this vastly amusing and companionable breed.
-        </p>
+        Lovable and curious, American Curls love spending time with their families and participating in their every move, like unpacking groceries or watching TV. They love attention and being talked to, but are not noisy cats. They make a quiet “cooing” sound when they talk to their families and quietly nudge them for attention.
+        They love to greet their families with a soft bump to the head and show affection by patting and nuzzling against its owner’s face. Naturally clever and inquisitive, the Curl often spends a considerable amount of time exploring its environment or playing games.
+      </p>
         
 </section>
 
 <section class="more-about">
-  <h2>Characteristics</h2>
+  <h2>Temperament</h2>
   <p>
-    It has a lot of strength, obedient, intelligent, and very well trained.
+  Social, Playful, Intelligent
   </p>
 </section>
 <section class="more-about">
   <h2>Health</h2>
   <p>
-  Because of their front-heavy structure, Frenchies cannot swim and should never be left unattended near a tub, pool, or body of water. Like all flat-faced breeds, Frenchies are prone to breathing problems and do poorly in hot or humid weather. Flat-faced breeds are also more sensitive to anesthesia. Frenchies occasionally have eye conditions such as cherry eye, juvenile cataracts, or entropion, and skin allergies and autoimmune skin disorders also are known to occur. A responsible breeder will take advantage of available tests to screen breeding stock for conditions that can affect the breed.
+  Social, Playful, Intelligent
 </p>
 </section>
 <section class="more-about">
   <h2>Grooming</h2>
   <p>
-  The Frenchie's short coat sheds minimally. Weekly brushing with a medium-bristle brush, a rubber grooming mitt or tool, or a hound glove will help to remove shed hair and keep him looking his best. Brushing promotes new hair growth and distributes skin oils throughout the coat to help keep it healthy. A Frenchie's facial folds should be kept clean and dry. The Frenchie's nailsshould be trimmed regularly, as overly long nails can cause him pain.
+  American Curls can be either longhair or shorthair. Shorthair Curls should be brushed regularly with a grooming glove or soft brush. Longhaired Curls do not have much undercoat, but should be brushed occasionally. Less undercoat means less shedding and less maintenance.
+  Nails should be trimmed periodically with a clipper (it is not recommended to use the scissor clippers). Curls are known to have a black ear wax that is normal for the breed therefor the inside of their ears should be clean periodically. Brush their teeth with a vet-approved pet toothpaste for good overall health and fresh breath and schedule regular veterinary dental cleanings.
 </p> 
 </section>
 <section class="more-about">
   <h2>Exercise</h2>
   <p>
-  A short walk or outdoor play session with their owner each day should provide enough exercise to keep the French Bulldog in shape. Frenchies enjoy participating in canine sports such as obedience, agility, and rally. As a flat-faced breed, however, they are prone to breathing difficulties and should never be allowed to exert themselves in hot or humid weather.
+  They enjoy daily exercise and can entertain themselves with just about anything left on the floor. Cat trees and indoor perches are recommended for climbing and jumping. They love to play and can even learn to fetch, but when they are ready for a break they will happily settle onto the nearest lap.
 </p>
 </section>
 <section class="more-about">
   <h2>Training</h2>
-  <p>
-  Early socialization and puppy training classes are recommended. Exposing the puppy to a wide variety of people, places, and situations will help him develop into a well-adjusted adult. Puppy training classes serve as part of the socialization process, promote good behavior, and help the owner learn to recognize and correct bad habits. Frenchies have big personalities and can need a fair amount of training to make them civilized companions. They can be stubborn, but at heart they're people pleasers and therefore easy to train. The proper motivation (such as food) and making a game of the process will ensure their cooperation.
+<p>
+Curls are playful and known as the “Peter Pan” of the cat world because they retain their kitten-like playfulness into their later years.
 </p>
 </section>
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-  A high-quality dog food appropriate to the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Frenchies are prone to obesity, which can damage their physical structure and puts them at higher risk for some of the breed's health issues, so it is vital to watch their calorie intake and weight. If you choose to give your dog treats, do so in moderation. Give table scraps sparingly, if at all, especially avoiding cooked bones and foods high in fat. Learn about which human foods are safe for dogs and which are not. Check with your vet if you have any concerns about your dog's weight or diet.
+  American Curls can be either longhair or shorthair. Shorthair Curls should be brushed regularly with a grooming glove or soft brush. Longhaired Curls do not have much undercoat, but should be brushed occasionally. Less undercoat means less shedding and less maintenance.
+  Nails should be trimmed periodically with a clipper (it is not recommended to use the scissor clippers). Curls are known to have a black ear wax that is normal for the breed therefor the inside of their ears should be clean periodically. Brush their teeth with a vet-approved pet toothpaste for good overall health and fresh breath and schedule regular veterinary dental cleanings.
 </p>
 </section>
       <!-- Website scripts -->

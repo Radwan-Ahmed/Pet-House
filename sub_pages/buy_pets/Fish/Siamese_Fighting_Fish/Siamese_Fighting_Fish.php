@@ -24,24 +24,24 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/dogs/alaskanmalamute.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/fish/SiameseFightingFish.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
-          <h2 class="bio-title">Alaskan Malamute </h2>
+          <h2 class="bio-title"> Siamese Fighting Fish</h2>
           <p class="bio-text">
           <span>Size</span>
           <p> 23 to 25 inch</p>
           <span>Color</span>
           <p>Black & White, Gray & White</p>
           </p>
-          <a href="/sub_pages/buy_pets/Dogs/Alaskan_Malamute/Alaskan_Malamute_Buy.php"><button class="button">Place order</button></a>
+          <a href="/sub_pages/buy_pets/Fish/Siamese_Fighting_Fish/Siamese_Fighting_Fish_Buy.php"><button class="button">Place order</button></a>
           
         </div>
 </section>
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about Alaskan Malamute</h2>
+        <h2>More about Siamese Fighting Fish</h2>
         <p>
         An immensely strong, heavy-duty worker of spitz type, the Alaskan Malamute is an affectionate, loyal, and playful but dignified dog recognizable by his well-furred plumed tail carried over the back, erect ears, and substantial bone. The Alaskan Malamute stands 23 to 25 inches at the shoulder and weighs 75 to 85 pounds. Everything about Mals suggests their origin as an arctic sled dog: The heavy bone, deep chest, powerful shoulders, and dense, weatherproof coat all scream, 'I work hard for a living!' But their almond-shaped brown eyes have an affectionate sparkle, suggesting Mals enjoy snuggling with their humans when the workday is done. Mals are pack animals. And in your family 'pack,' the leader must be you. If a Mal doesn't respect you, he will wind up owning you instead of the other way around. Firm but loving training should begin in early puppyhood. That said, a well-behaved Mal is a joy to be with'¿playful, gentle, friendly, and great with kids.
         </p>

@@ -38,26 +38,24 @@
 
             <form action="/sub_pages/buy_pets/Dogs/Boston_Terrier/database.php"  class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend style="color: white;" >Selected Dog</legend>
+                    <legend style="color: white;" >Selected Pet</legend>
 
                     <div class="dog-menu-img">
                         <img src="/assets/dogs/BostonTerrier.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
                     </div>
     
                     <div class="dog-menu-desc">
-                    <div class="order-label">Dog ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10003" style="color: black;">
-                    <div class="order-label">Dog Name</div>
+                    <div class="order-label">Pet ID</div>
+                    <input type="text" name="id" class="input-responsive" readonly  value="3003" style="color: black;">
+                    <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="Boston Terrier" style="color: black;">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="350.75$" style="color: black;">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="Liver & White">Liver & White</option>
                          <option value="Seal Brindle & White">Seal Brindle & White</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="350.75 " style="color: black;">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

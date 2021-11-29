@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/sub_pages/buy_pets//order_and_Buying_page/order_page.css">
-    <title>Poodle</title>
+    <title>Manx Cat</title>
 </head>
 <body>
 <nav>
@@ -30,9 +30,9 @@
           <h2 class="bio-title"> Manx Cat </h2>
           <p class="bio-text">
           <span>Size</span>
-          <p> over 15 inches (standard) </p>
+          <p> Medium-sized cat  </p>
           <span>Color</span>
-          <p>Brindle, Apricot, Black, Blue</p>
+          <p>Blue, lilac, Fawn, Red, and Cream</p>
           </p>
           <a href="/sub_pages/buy_pets/Cats/Manx_Cat/Manx_Cat_Buy.php"><button class="button">Place order</button></a>
           
@@ -43,45 +43,41 @@
 <section class="more-about">
         <h2>More about Manx Cat</h2>
         <p>
-        Whether Standard, Miniature, or Toy, and either black, white, or apricot, the Poodle stands proudly among dogdom¿s true aristocrats. Beneath the curly, low-allergen coat is an elegant athlete and companion for all reasons and seasons. Poodles come in three size varieties: Standards should be more than 15 inches tall at the shoulder; Miniatures are 15 inches or under; Toys stand no more than 10 inches. All three varieties have the same build and proportions. At dog shows, Poodles are usually seen in the elaborate Continental Clip. Most pet owners prefer the simpler Sporting Clip, in which the coat is shorn to follow the outline of the squarely built, smoothly muscled body. Forget those old stereotypes of Poodles as sissy dogs. Poodles are eager, athletic, and wickedly smart ¿real dogs¿ of remarkable versatility. The Standard, with his greater size and strength, is the best all-around athlete of the family, but all Poodles can be trained with great success.
+        These even-tempered, calm cats have a lot of affection to share and prefer not be on their own for long periods of time. The friendly, loving Manx is best known for their taillessness and have been known to carry on a conversation in a sweet trilling voice. They generally will bond most closely with the person who feeds them yet are great family cats. They are able to entertain themselves, are trustworthy if left alone for work hours, and so happy when family returns.
+        Some Manx cats give all their love to a single person while others are affectionate toward the entire family, including children..
       </p>
         
 </section>
 
 <section class="more-about">
-  <h2>Characteristics</h2>
+  <h2>Temperament</h2>
   <p>
-    It has lot of strength, obedient, intelligent, and very well trained.
-  </p>
+  Loyal, Inventive, Clownlike
+</p>
 </section>
 <section class="more-about">
   <h2>Health</h2>
   <p>
-  Most Poodles live long, happy, healthy lives thanks to the efforts of dedicated, responsible breeders who routinely test all breeding stock. As with all breeds, however, some health issues can occur, including hip dysplasia and several eye disorders. Idiopathic epilepsy, sebaceous adenitis, von Willebrand¿s disease, and immune-mediated disorders are also seen in the breed on occasion. Two orthopedic problems, Legg-Calve-Perthes and luxating patellas, are more likely to occur in Toy and Miniature Poodles than in Standards. The Standard variety are more at risk for gastric dilatation with volvulus (bloat) and sebaceous adenitis.
-  </p>
+  Manx are considered an overall healthy breed. However, the gene that can make these cats tailless can also create some health issues, however, responsible breeders typically identify and address that in kittenhood, before placement.
+</p>
 </section>
 <section class="more-about">
   <h2>Grooming</h2>
   <p>
-  Unless you plan to keep your Poodle clipped in a short trim, you will need to learn how to brush how to brush him daily to keep his coat from matting. If you do not brush and comb a full-coated Poodle completely to the skin, the hair will mat near the roots and will have to be shaved off to start all over with new growth. Most pet owners opt to keep the Poodle in a shorter trim. Some owners learn to do this clipping and trimming themselves, while others choose to take their dog to a professional dog groomer every four to six weeks for a bath, grooming, and nail trim. The breed¿s relatively nonshedding coat makes the breed a good choice for people with allergies.
+  Manx are considered an overall healthy breed. However, the gene that can make these cats tailless can also create some health issues, however, responsible breeders typically identify and address that in kittenhood, before placement.
 </p> 
 </section>
 <section class="more-about">
   <h2>Exercise</h2>
   <p>
-  Poodles of any size are very active dogs who require good exercise every day to suit their high energy level. Poodles are eager for all kinds of activity, and they enjoy keeping busy. Swimming is great exercise for them, and most Poodles love to get in the water. Bred as hunting dogs, their impulse is to retrieve, so tossing toys, sticks, or balls for them will exercise both their mind and body. They also thrive on going for jogs or long walks with their human.
-</p>
-</section>
-<section class="more-about">
-  <h2>Training</h2>
-  <p>
-  Poodles are extremely intelligent and are easily trained. They are agile and graceful as well as smart, and they enjoy and excel in a variety of canine sports, including agility, obedience, and tracking. They are excellent water-retrievers and also compete in dock diving and retriever hunt tests. Poodles are very people-oriented, and if your training routines are fun and positive, they are quick to please you. Just be sure that you are being consistent with what you ask.
+  Often compared to a mini race car driver, they tend to accelerate through the house, making sharp turns and quick stops. Gentle and playful, Manx cats are excellent jumpers and have the ability to get to the highest corner to investigate something that has sparked their interest. Given that ability, the mature Manx is often a floor model. Manx cats are highly intelligent. Challenge their brain by teaching them tricks and providing puzzle toys that will reward with kibble or treats. It’s not unusual to find a Manx playing fetch or carrying their toys around. The are known to drown their toys in their water dish, so be prepared for water changes!
 </p>
 </section>
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-  No matter which size Poodle has stolen your heart, you will want to feed him or her the best possible dog food. Your vet or breeder can help you decide on the right food for your dog¿s age, activity level, and size. Some dogs are prone to getting overweight, so watch your dog¿s calorie consumption and weight level. If you choose to give your dog treats, do so in moderation. Treats can be an important aid in training, but giving too many can cause obesity. Never feed a dog cooked bones or fatty table scraps. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog¿s weight or diet.
+  Manx cats are best fed wet meals. Twice, daily meals are preferable, although some may only want to eat once a day. Meal feeding also keeps you aware of their health, if someone does not show for a meal, you know to go looking. These obligate carnivores should be fed a meat-based diet, grain free and veg free, too. They really have no way to use those foods, given the short gut and gut flora they have, which can cause gut issues and even excessive dental tartar.
+  Their desert origins have made them get most of their liquid from their prey. The mouth is not adapted for taking in water well enough to counter a dry diet. The brain is not “hard-wired” to even drink often, however, as with all cats, it is important to give your cat fresh, clean water daily so cats don’t hesitate to drink. If you worry about your cat drinking enough water each day, here's a tip from cat behaviorists - place the water bowl at least three feet away from any food. Cats’ noses are sensitive and an overwhelming smell of food may cause them to drink less. Filtered drinking fountains can also be used in place of a water bowl.
 </p>
 </section>
       <!-- Website scripts -->

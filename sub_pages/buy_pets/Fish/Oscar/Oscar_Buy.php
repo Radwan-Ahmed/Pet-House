@@ -34,29 +34,29 @@
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
 
-            <form action="/sub_pages/buy_pets/Dogs/Bulldog/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
+            <form action="/sub_pages/buy_pets/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend>Selected Dog</legend>
+                    <legend>Selected Pet</legend>
 
                     <div class="dog-menu-img">
-                        <img src="/assets/dogs/bulldog.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                        <img src="/assets//fish/Oscar.jpg" alt="Oscars" class="img-responsive img-curve">
                     </div>
     
                     <div class="dog-menu-desc">
-                    <div class="order-label">Dog ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10002">
+                    <div class="order-label">Pet ID</div>
+                    <input type="text" name="id" class="input-responsive" readonly  value="1004">
                     <div class="order-label">Dog Name</div>
-                    <input type="text" name="name" class="input-responsive" readonly  value="Bulldog">
-
+                    <input type="text" name="name" class="input-responsive" readonly  value="Oscars">    
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="80.75$">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
-                         <option value="tan/black">tan/black</option>
-                         <option value="tan/black">red/black</option>
+                         <option value="Black">Black</option>
+                         <option value="Brown">Brown</option>
+                         <option value="Orange">Orange</option>
+                         <option value="Red">Red</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="380.75 ">
-                    <div class="order-label">Age</div>
+                    <div class="order-label">Age(Month)</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>

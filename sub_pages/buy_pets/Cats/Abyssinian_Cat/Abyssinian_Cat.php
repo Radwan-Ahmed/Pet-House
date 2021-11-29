@@ -30,9 +30,9 @@
           <h2 class="bio-title">Abyssinian Cat </h2>
           <p class="bio-text">
           <span>Size</span>
-          <p> 23 to 25 inch</p>
+          <p> medium-sized cat</p>
           <span>Color</span>
-          <p>Black & White, Gray & White</p>
+          <p> cinnamon-silver, chocolate-silver,cinnamon, chocolate</p>
           </p>
           <a href="/sub_pages/buy_pets/Cats/Abyssinian_Cat/Abyssinian_Cat_Buy.php"><button class="button">Place order</button></a>
           
@@ -43,45 +43,52 @@
 <section class="more-about">
         <h2>More about  AbyssinianCat</h2>
         <p>
-        An immensely strong, heavy-duty worker of spitz type, the Alaskan Malamute is an affectionate, loyal, and playful but dignified dog recognizable by his well-furred plumed tail carried over the back, erect ears, and substantial bone. The Alaskan Malamute stands 23 to 25 inches at the shoulder and weighs 75 to 85 pounds. Everything about Mals suggests their origin as an arctic sled dog: The heavy bone, deep chest, powerful shoulders, and dense, weatherproof coat all scream, 'I work hard for a living!' But their almond-shaped brown eyes have an affectionate sparkle, suggesting Mals enjoy snuggling with their humans when the workday is done. Mals are pack animals. And in your family 'pack,' the leader must be you. If a Mal doesn't respect you, he will wind up owning you instead of the other way around. Firm but loving training should begin in early puppyhood. That said, a well-behaved Mal is a joy to be with'¿playful, gentle, friendly, and great with kids.
+        Known for their unique ticked coat, Abyssinians have the appearance of a wildcat. They are athletic, alert, very active, and intensely curious with all that surrounds them. Fiercely loyal and highly people oriented, Abyssinians are referred to as the cat of the dog world. They are generally great with children, dogs, and other cats.
+
+Activity Level:
+Abyssinians are extremely graceful, lithe, and elegant. They show a lively interest in their surroundings and are famous for their playful and curious disposition. Most Abys will stay kitten-like throughout much of their life.
+
+Abys prefer the highest ground they can reach. They love to be on the highest level possible where they are able to observe the room, make decisions, and even guard their family. Don’t be stunned if you find a “flying” Aby on your shoulder!
         </p>
         
 </section>
 
 <section class="more-about">
-  <h2>Characteristics</h2>
+  <h2>Temperament</h2>
   <p>
-    It has a lot of strength, obedient, intelligent, and very well trained.
+  Intelligent, Energetic, Affectionate
   </p>
 </section>
 <section class="more-about">
   <h2>Health</h2>
   <p>
-  A responsible breeder will screen breeding stock for health conditions such as hip dysplasia (a malformation of the hip joint that is the most common skeletal condition in dogs), elbow dysplasia, thrombopathia, chondrodysplasia ('dwarfism'), hypothyroidism, inherited polyneuropathy, von Willebrand's disease, and day blindness. As with all breeds, an Alaskan Malamute's ears should be checked regularly to remove foreign matter and avoid a buildup of wax, and his teeth should be brushed regularly.
+  Abyssinians are generally healthy, but as with all breeds, they are prone to certain health conditions. While knowledgeable breeders do their best to test for and eliminate genetic health problems, cats may still develop certain diseases or conditions. Abyssinians may have a higher risk for the following:
   </p>
 </section>
 <section class="more-about">
   <h2>Grooming</h2>
   <p>
-  The thick, waterproof double coat of the Alaskan Malamute is beautifully adapted to harsh Arctic life, but it requires constant upkeep. A Malamute should be brushed every day with a pin brush and metal comb, all the while checking for mats, which can harbor fungus, and hot spots, which can become infected. Twice a year, during shedding season, an undercoat rake should be added to the regimen. Show Malamutes are often bathed weekly, but a pet Malamute can go six to eight weeks between baths. Conditioner can be used, in moderation, if the coat feels dry. As with all breeds, the Malamute's nails should be trimmed regularly.
+  Abyssinians are known to many as the “wash and wear” cat. Their grooming requirements are low as they shed very little and have a short, easy-to-maintain coat. An occasional brushing is all that is required to eliminate dead hair and an intermittent rub down with a cold damp cloth will also help to keep their coat glossy and in good condition. Bathe as needed, starting when your Aby is a kitten. After bathing, pat down with a towel and leave the coat to “drip-dry” on its own.
+
+  Nails should be trimmed every two weeks. Begin brushing their teeth regularly at an early age with a vet-approved pet toothpaste.   
 </p> 
 </section>
 <section class="more-about">
   <h2>Exercise</h2>
   <p>
-  While the Malamute was not bred for racing, he was bred to work. A strong, athletic dog with tremendous endurance, designed to carry heavy loads, a Mal requires daily exercise. Romping in a well-fenced yard or other enclosed space will suffice, but Malamutes also enjoy hiking, running, and swimming with their owners. And should the owner have sufficient time and interest, Malamutes often take part in agility and obedience trials, weight-pulling competitions, backpacking (yes, you can buy a backpack for your dog), recreational or competitive sledding, and skijoring (pulling a person who is on skis).
+
 </p>
 </section>
 <section class="more-about">
   <h2>Training</h2>
   <p>
-  Socialization and obedience training are necessary in order to prevent a Malamute from becoming pushy with children and other pets, or dominant over adults he or she doesn't respect. Malamutes are highly intelligent but also independent and willful, often to the point of stubbornness. While fairness and patience can yield a devoted, trustworthy companion, there are certain behaviors that may be impossible to train out of a Mal, such as digging, so any yard fencing must continue into the ground. And Malamutes are not especially suited to be guard dogs because they tend to be friendly with everyone they meet.
+
 </p>
 </section>
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-  The Alaskan Malamute should do well on a high-quality dog food, whether commercially manufactured or home-prepared with your veterinarian's supervision and approval. Any diet should be appropriate to the dog's age (puppy, adult, or senior). Some dogs are prone to getting overweight, so watch your dog's calorie consumption and weight level. Treats can be an important aid in training, but giving too many can cause obesity. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet. Clean, fresh water should be available at all times.
+  As with all cats, it is important to give your cat fresh, clean water daily. Fresh, clean water is best, so cats don’t hesitate to drink. If you worry about your cat drinking enough water each day, here's a tip from some cat behaviorists: place the water bowl at least three feet away from any food. Cats’ noses are sensitive, and an overwhelming smell of food may cause them to drink less. Filtered drinking fountains (stainless steel preferred) can also be used in place of a water bowl.   
 </p>
 </section>
       <!-- Website scripts -->

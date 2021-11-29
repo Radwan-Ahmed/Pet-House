@@ -46,18 +46,20 @@
     
                     <div class="dog-menu-desc">
                     <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10003" style="color: black;">
+                    <input type="text" name="id" class="input-responsive" readonly  value="2002" style="color: black;">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="American Bobtail Cat" style="color: black;">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="250.75$" style="color: black;">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
-                         <option value="Liver & White">Liver & White</option>
-                         <option value="Seal Brindle & White">Seal Brindle & White</option>
+                         <option value="chocolate">chocolate</option>
+                         <option value="cinnamon">cinnamon</option>
+                         <option value="blue">blue</option>
+                         <option value="lilac">lilac</option>
                     </select>
 
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="350.75 " style="color: black;">
+                    
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

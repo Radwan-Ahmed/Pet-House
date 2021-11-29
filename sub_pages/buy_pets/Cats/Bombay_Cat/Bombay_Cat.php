@@ -24,15 +24,15 @@
 
     <!-- Hero Section -->
 <section class="hero" id="about">
-          <img  src="/assets/dogs/GermanShepherd.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
+          <img  src="/assets/Cats/BombayCat.jpg"  alt="Pets"  loading="lazy"  class="hero-img">
         <div class="hero-img">     
         <div class="bio animate__animated animate__shakeX">
           <h2 class="bio-title"> Bombay Cat </h2>
           <p class="bio-text">
           <span>Size</span>
-          <p> 60-65 cm for males and for females 55-60 cm </p>
+          <p> A medium compact sized cat, with males being larger. </p>
           <span>Color</span>
-          <p>tan/black and red/black</p>
+          <p>Black</p>
           </p>
           <a href="/sub_pages/buy_pets/Cats/Bombay_Cat/Bombay_Cat_Buy.php"><button class="button">Place order</button></a>
           
@@ -41,50 +41,47 @@
 
     <!-- More about -->
 <section class="more-about">
-        <h2>More about German Shepherd</h2>
+        <h2>More about Bombay Cat</h2>
         <p>
-          German Shepard got originated from Germany. This is a new breed of dog that originated in the year 1899. These are called as working dogs that are developed for herding sheep. A German dog has a lot of strength, obedient, intelligent, and very well trained. It is called the second-most popular breed of dog in the United States and fourth-most popular in the United Kingdom.
-
-          The breed height starts at 60-65 cm for males, and for females, height was 55-60 cm. They mostly observe in tan/black and red/black. They have a double coat. The outer layer sheds all around, and the thick undercoat is very dense. The life span of the German Shepard is 10.5 years.
+        Bombay cats love human interaction and being the center of attention. They are a true part of the family and like to be involved in everything, including walking around perched on their owner’s soldier or cuddled in their lap as they watch TV or read a book, they’ve even been known to join their humans under the covers at bedtime. The lively and affectionate Bombay is adaptable to many different environments and lifestyles.
         </p>
         
 </section>
 
 <section class="more-about">
-  <h2>Characteristics</h2>
+  <h2>Temperament</h2>
   <p>
-    German dog has a lot of strength, obedient, intelligent, and very well trained.
+  Loving, Intelligent, People-Oriented
   </p>
 </section>
 <section class="more-about">
   <h2>Health</h2>
   <p>
-    Most German Shepherds are healthy dogs. A responsible breeder will screen breeding stock for health conditions such as degenerative myelopathy and elbow and hip dysplasia. German Shepherd Dogs can experience bloat, a sudden and life-threatening swelling of the abdomen, and owners should educate themselves about its symptoms and what to do should bloat occur.
-  </p>
+  The Bombay is generally a healthy breed but, as with all cats, they are at risk for the most common heart disease, Hypertrophic Cardiomyopathy. This is a genetic disease that can result in heart failure and death, so it is of paramount importance that breeders diligently screen for this via echocardiogram (heart ultrasound) performed by a Veterinary Cardiologist. Because HCM doesn’t always show up in the first years of life, it is important for pet owners to proactively screen for this disease as well.
+  Knowledgeable breeders will DNA test their breeding cats for defects (BHD, HK and GM2) that can occur in the breed. HK and GM2, which are the only ones that may affect pet buyers, are mainly seen in lines that originate in Europe, but as the genetic tests have been available for several years now, these defects have almost been eliminated.
+</p>
 </section>
 <section class="more-about">
   <h2>Grooming</h2>
   <p>
-    The German Shepherd Dog has a medium-length, double coat consisting of a dense, harsh, and close-lying outer coat with a softer undercoat. The breed is easy to maintain, usually requiring just a quick brushing every few days or so to help remove loose hairs, but they do shed more profusely once or twice a year. During these periods, more frequent brushing will help control the amount of hair that ends up around the house and on the furniture. The German Shepherd only needs an occasional bath. It is important to trim or grind his nails every month if they are not worn down naturally, as overly long nails can cause pain and structural issues.
-  </p> 
+  The Bombay’s short, fine coat sheds little and is easy to care for by brushing weekly. Sometimes they will only require running a chamois over their coat to remove lose hairs and bring a silky sheen to their coat. Bathing is not necessary but can be done a couple of times each year.
+  As with all cats, keep their nails trimmed, ears cleaned, and teeth brushed regularly with a vet-approved pet toothpaste and provide a nice tall scratching pole to help their natural scratching instinct.
+</p> 
 </section>
 <section class="more-about">
   <h2>Exercise</h2>
   <p>
-    As a very active and athletic breed, the German Shepherd requires lots of exercise for his physical and mental well-being. A dog who is not exercised enough will become frustrated and likely to develop undesirable behaviors. With a puppy, you can start with short daily walks, as well as play sessions in a safely fenced area. Remember to not let the dog off leash, as even the best-trained dog can become distracted and not follow every command. Participating in canine activities such as agility, herding, tracking, and dock diving provides excellent physical and mental exercise and is fun and rewarding for both dog and owner.
-  </p>
+  The Bombay is a smart cat who loves to play. As kittens they are very active and curious and adapt easily to change. It is recommended to kitten-proof homes with Bombay kittens. As they get older, they tend to become more tranquil, preferring to watch rather than get involved in activities
+</p>
 </section>
 <section class="more-about">
-  <h2>Training</h2>
-  <p>
-    Early socialization and puppy training classes are vital, and continuing obedience training will help ensure that the pup will grow to be an adaptable and well-mannered adult. The German Shepherd is a highly intelligent companion and an extraordinary worker. Consistency and positive, reward-based training will yield excellent results. He is extremely bonded to his people, so he is happiest when he lives with his family. He should be raised in the household and exposed to the family's activities. The German Shepherd Dog Club of America provides detailed training advice for owners on the club's website.
-  </p>
 </section>
 <section class="more-about">
   <h2>Nutrition</h2>
   <p>
-    A high-quality dog food appropriate for the dog's age (puppy, adult, or senior) will have all the nutrients the breed needs. Table scraps can cause digestive upset, so only give them sparingly, if at all, especially avoiding cooked bones and foods with high fat content. Small pieces of biscuit or the dog's kibble can be used as treats for training. If you are feeding a high-quality food, vitamin and mineral supplements should not be necessary, although adding small quantities of yogurt, cooked vegetables, or eggs to the food can be beneficial. Learn about which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog's weight or diet.
-  </p>
+  The Bombay is a sturdy, stocky cat. Exercise and a high-quality diet are key to keeping them healthy. Like all cats, Bombay’s are active cats and need mostly animal protein/meat in their diet. Canned food twice a day and a quality dry food with no corn or wheat. Avoid grains if possible. Give them dry food with high level of animal protein to maintain the muscle mass and fatty acids to maintain a healthy skin and shiny coat. If using dry food, avoid foods with a lot of grains, leave some out daily to free feed. Kittens require quality food to put on muscle as they grow.
+  As with all cats, it is important to give your cat fresh, clean water daily. Fresh, clean water is best, so cats don’t hesitate to drink. If you worry about your cat drinking enough water each day, here's a tip from Jackson Galaxy and other cat behaviorists - Place the water bowl at least three feet away from any food. Cats’ noses are sensitive, and an overwhelming smell of food may cause them to drink less. Filtered drinking fountains can also be used in place of a water bowl.   
+</p>
 </section>
       <!-- Website scripts -->
       <script src="/js/app.js"></script>

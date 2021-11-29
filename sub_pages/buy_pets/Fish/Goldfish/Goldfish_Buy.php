@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <!-- Important to make website responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boston Terrier</title>
+    <title>Gold Fish</title>
 
     <!-- Link our CSS file -->
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/Buying_page.css">
@@ -36,29 +36,28 @@
             
             <h2 class="text-center text-white">Fill this form to confirm your order.</h2>
 
-            <form action="/sub_pages/buy_pets/Dogs/Boston_Terrier/database.php"  class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
+            <form action="/sub_pages/buy_pets/database.php"  class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend style="color: white;" >Selected Dog</legend>
+                    <legend style="color: white;" >Selected Pet</legend>
 
                     <div class="dog-menu-img">
-                        <img src="/assets/dogs/BostonTerrier.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                        <img src="/assets/fish/Goldfish.jpg" alt="Gold Fish" class="img-responsive img-curve">
                     </div>
     
                     <div class="dog-menu-desc">
-                    <div class="order-label">Dog ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10003" style="color: black;">
-                    <div class="order-label">Dog Name</div>
-                    <input type="text" name="name" class="input-responsive" readonly  value="Boston Terrier" style="color: black;">
-
+                    <div class="order-label">Pet ID</div>
+                    <input type="text" name="id" class="input-responsive" readonly  value="4002" style="color: black;">
+                    <div class="order-label">Pet Name</div>
+                    <input type="text" name="name" class="input-responsive" readonly  value="Gold Fish" style="color: black;">               
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="70.75$" style="color: black;">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
-                         <option value="Liver & White">Liver & White</option>
-                         <option value="Seal Brindle & White">Seal Brindle & White</option>
+                         <option value="Red">Red</option>
+                         <option value="Yellow">Yellow</option>
+                         <option value="Orange">Orange</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="350.75 " style="color: black;">
-                    <div class="order-label">Age</div>
+                    <div class="order-label">Age(Month)</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>

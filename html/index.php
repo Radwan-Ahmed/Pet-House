@@ -130,20 +130,20 @@
         <h2 class="projects-title">Some New Pets</h2>
         <div class="projects-container">
           <div class="project-container project-card">
-            <img src="/assets/parrot.jpg" alt="Fish" loading="lazy"  class="project-pic">
-            <h3 class="project-title">Parrot</h3>
+            <img src="/assets/dogs.jpg" alt="Fish" loading="lazy"  class="project-pic">
+            <h3 class="project-title">Dogs</h3>
             <p class="project-details">
-              Parrot
+              Dogs
             </p>
-            <a href="#" target="_blank" class="project-link">Check it Out</a>
+            <a href="/sub_pages/buy_pets/buy.php" target="_self" class="project-link">Check it Out</a>
           </div>
           <div class="project-container project-card">
-              <img  src="/assets/rabbit.jpg" alt="Fish"  loading="lazy"  class="project-pic">
-            <h3 class="project-title">Rabbit</h3>
+              <img  src="/assets/cats.jpg" alt="Fish"  loading="lazy"  class="project-pic">
+            <h3 class="project-title">Cats</h3>
             <p class="project-details">
-              Rabbit
+              Cats
             </p>
-            <a href="#" target="_blank" class="project-link">Check it Out</a>
+            <a href="/sub_pages/buy_pets/buy.php" target="_self" class="project-link">Check it Out</a>
           </div>
           <div class="project-container project-card">
             <img src="/assets/snake.jpg"  alt="fish"  loading="lazy"  class="project-pic">
@@ -151,7 +151,7 @@
             <p class="project-details">
               Snake
             </p>
-            <a href="#" target="_blank" class="project-link">Check it Out</a>
+            <a href="/sub_pages/buy_pets/buy.php" target="_self" class="project-link">Check it Out</a>
           </div>
         </div>
 </section>

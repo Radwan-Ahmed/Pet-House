@@ -43,20 +43,19 @@
                     </div>
                     <div class="dog-menu-desc">
                     <div class="order-label">Pet ID</div>
-                    <input type="text" name="id" class="input-responsive" readonly  value="10005">
+                    <input type="text" name="id" class="input-responsive" readonly  value="2006">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="Manx Cat">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="250.50$">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
-                         <option value="Brindle">Brindle</option>
-                         <option value="Apricot">Apricot</option>
-                         <option value="black">Black</option>
                          <option value="Blue">Blue</option>
+                         <option value="lilac">lilac</option>
+                         <option value="Fawn">Fawn</option>
+                         <option value="Red">Red</option>
+                         <option value="Cream">Cream</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="450.50">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>

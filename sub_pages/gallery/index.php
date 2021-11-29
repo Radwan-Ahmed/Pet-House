@@ -15,7 +15,7 @@
         <ul class="navigation">
           <li><a href="/html/index.php" class="nav-link">Home</a></li>
         </ul>
-        <button class="burger-menu" id="burger-menu">
+        <button class="dot-menu" id="dot-menu">
           <ion-icon class="bars" name="menu-outline"></ion-icon>
         </button>
     </nav>

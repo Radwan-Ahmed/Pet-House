@@ -20,7 +20,7 @@
       <li><a href="#Fish" class="nav-link">Fish</a></li>
       <li><a href="#Snake" class="nav-link">Snake</a></li>
     </ul>
-    <button class="burger-menu" id="burger-menu">
+    <button class="dot-menu" id="dot-menu">
       <ion-icon class="bars" name="menu-outline"></ion-icon>
     </button>
 </nav>

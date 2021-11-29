@@ -33,7 +33,7 @@
           <li><a href="/sub_pages/review/review.php" class="nav-link">Review</a></li>
           <li><a href="/sub_pages/login_and_Register/login_signup.php" class="nav-link" target="_self">Log in/Join</a></li> 
         </ul>
-        <button class="burger-menu" id="burger-menu">
+        <button class="dot-menu" id="dot-menu">
           <ion-icon class="bars" name="menu-outline"></ion-icon>
         </button>
 </nav>
@@ -130,7 +130,7 @@
         <h2 class="projects-title">Some New Pets</h2>
         <div class="projects-container">
           <div class="project-container project-card">
-            <img src="/assets/dogs.jpg" alt="Fish" loading="lazy"  class="project-pic">
+            <img src="/assets/dogs.jpg" alt="dogs" loading="lazy"  class="project-pic">
             <h3 class="project-title">Dogs</h3>
             <p class="project-details">
               Dogs
@@ -138,7 +138,7 @@
             <a href="/sub_pages/buy_pets/buy.php" target="_self" class="project-link">Check it Out</a>
           </div>
           <div class="project-container project-card">
-              <img  src="/assets/cats.jpg" alt="Fish"  loading="lazy"  class="project-pic">
+              <img  src="/assets/cats.jpg" alt="cats"  loading="lazy"  class="project-pic">
             <h3 class="project-title">Cats</h3>
             <p class="project-details">
               Cats
@@ -146,7 +146,7 @@
             <a href="/sub_pages/buy_pets/buy.php" target="_self" class="project-link">Check it Out</a>
           </div>
           <div class="project-container project-card">
-            <img src="/assets/pet.jpg"  alt="fish"  loading="lazy"  class="project-pic">
+            <img src="/assets/snake.jpg"  alt="snake"  loading="lazy"  class="project-pic">
             <h3 class="project-title">Snake</h3>
             <p class="project-details">
               Snake

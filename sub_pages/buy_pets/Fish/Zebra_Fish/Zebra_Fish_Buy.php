@@ -22,7 +22,7 @@
           <li><a href="/sub_pages/review/review.php" class="nav-link">Review</a></li>
           <li><a href="/sub_pages/login_and_Register/login_signup.php" class="nav-link" target="_self">Login/Register</a></li> 
         </ul>
-        <button class="burger-menu" id="burger-menu">
+        <button class="dot-menu" id="dot-menu">
           <ion-icon class="bars" name="menu-outline"></ion-icon>
         </button>
 </nav>

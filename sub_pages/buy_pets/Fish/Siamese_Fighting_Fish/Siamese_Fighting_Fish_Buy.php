@@ -63,7 +63,7 @@
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>
-                        <label for="price">Net Price: $</label>
+                         <!--  <label for="price">Net Price: $</label> -->
                         <input name="net_price" type ="number" value="0" for="qty Name" style="color: white;"></input>
                     </div>
 

@@ -36,7 +36,7 @@
 
             <form action="/sub_pages/buy_pets/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend style="color: white;">Selected Dog</legend>
+                    <legend style="color: white;">Selected Pet</legend>
 
                     <div class="pet-menu-img">
                         <img src="/assets/snakes/red_bellied_black_snake.jpg" alt="Red Bellied Black Snake" class="img-responsive img-curve">
@@ -47,7 +47,8 @@
                     <input type="text" name="id" class="input-responsive" readonly  value="10005">
                     <div class="order-label">Pet Name</div>
                     <input type="text" name="name" class="input-responsive" readonly  value="Red Bellied Black Snake">
-
+                    <div class="order-label">Price</div>
+                    <input type="text" name="price" class="input-responsive" readonly  value="450.50$">
                     <label for="color" style="font-weight: bold;">Choose a color:</label>
                     <select id="color" name="color">
                          <option value="Brindle">Brindle</option>
@@ -55,15 +56,12 @@
                          <option value="black">Black</option>
                          <option value="Blue">Blue</option>
                     </select>
-
-                    <div class="order-label">Price</div>
-                    <input type="text" name="price" class="input-responsive" readonly  value="450.50">
                     <div class="order-label">Age</div>
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>
-                        <label for="price">Net Price: $</label>
-                        <output name="net_price" for="qty Name" style="color: white;">0</output>
+                          <!--<label for="price">Net Price: $</label> -->
+                        <input name="net_price" for="qty Name" style="color: white;">0</input>
                     </div>
 
                 </fieldset>

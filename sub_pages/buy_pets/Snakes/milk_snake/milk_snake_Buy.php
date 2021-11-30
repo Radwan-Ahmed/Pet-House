@@ -36,7 +36,7 @@
 
             <form action="/sub_pages/buy_pets/database.php" class="order" oninput="net_price.value=parseFloat(qty.value)*parseFloat(price.value)" method="POST">
                 <fieldset>
-                    <legend>Selected Dog</legend>
+                    <legend>Selected Pet</legend>
                     <div class="pet-menu-img">
                         <img src="/assets/snakes/milk_snake.jpg" alt="milk_snake" class="img-responsive img-curve">
                     </div>
@@ -57,8 +57,8 @@
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>
-                        <label for="price">Net Price: $</label>
-                        <output name="net_price" for="qty Name" style="color: white;">0</output>
+                        <!--<label for="price">Net Price: $</label> -->
+                        <input name="net_price" for="qty Name" style="color: white;">0</input>
                     </div>
 
                 </fieldset>

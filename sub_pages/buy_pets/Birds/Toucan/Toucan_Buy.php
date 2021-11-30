@@ -62,7 +62,7 @@
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>
                         <!-- <label for="price">Net Price: $</label> -->
-                        <input name="net_price" type ="number" value="0" for="qty Name" style="color: white;"></input>
+                        <input style="color: black;" name="net_price" type ="number" value="0" for="qty Name" style="color: white;"></input>
                     </div>
 
                 </fieldset>

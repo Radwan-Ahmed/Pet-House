@@ -276,7 +276,7 @@
         <img src="/assets/snakes/black_rat.jpg" alt="Snake" loading="lazy"  class="project-pic">
         <h3 class="project-title">Black Rat</h3>
         <p class="project-details">
-          Snake
+        Rat snakes are among the most popular pet snakes.
         </p>
         <a href="/sub_pages/buy_pets/Snakes/black_rat/black_rat.php" target="_self" class="project-link">Check it Out</a>
       </div>
@@ -292,7 +292,7 @@
         <img src="/assets/snakes/milk_snake.jpg"  alt="Snake"  loading="lazy"  class="project-pic">
         <h3 class="project-title">Milk Snake</h3>
         <p class="project-details">
-          Snake
+        All varieties of Milk Snakes are easy to handle after they get used to you.
         </p>
         <a href="/sub_pages/buy_pets/Snakes/milk_snake/milk_snake.php" target="_self" class="project-link">Check it Out</a>
       </div>

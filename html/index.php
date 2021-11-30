@@ -118,7 +118,7 @@
           </div>
   
           <div class="second-set animate__animated animate__pulse">
-            <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
+            <img src="/assets/snake.jpg"  alt="pet"  class="icon icon-card">
             <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
             <img src="/assets/fish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
           </div>

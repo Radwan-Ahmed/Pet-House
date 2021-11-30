@@ -12,6 +12,7 @@
 <div class="container" id="container">
 	<div class="form-container sign-up-container">
 		<form action="signup.php" method="POST">
+			<input type="hidden" name="action" value="registration">
 			<h1>Create Account</h1>
 			<div class="social-container">
 				<a href="https://www.facebook.com" class="social" title="Facebook"><i class="fab fa-facebook-f"></i></a>
@@ -21,12 +22,13 @@
 			<span>Use Social account or use your email for registration</span>
 			<input type="text" placeholder="Name" name="name" required />
 			<input type="email" placeholder="Email" name="email" required />
-			<input type="password" placeholder="Password" name="pass" required />
+			<input type="password" placeholder="Password" name="password" required />
 			<button onclick="sign_up()">Sign Up</button>
 		</form>
 	</div>
 	<div class="form-container sign-in-container">
 		<form action="login.php" method="POST">
+			<input type="hidden" name="action" value="login">
 			<h1>Sign in</h1>
 			<div class="social-container">
 				<a href="#" class="social" title="Facebook"><i class="fab fa-facebook-f"></i></a>
@@ -35,7 +37,7 @@
 			</div>
 			<span>Use Social account or use your email for Login</span>
 			<input type="email" placeholder="Email" name="email" required />
-			<input type="password" placeholder="Password" name="pass" required />
+			<input type="password" placeholder="Password" name="password" required />
 			<button onclick="sign_in()">Sign In</button>
             <a href="#">Forgot your password?</a>
 		</form>

@@ -32,3 +32,27 @@ if(mysqli_connect_errno()) {
         }     
 
 ?>
+
+<!--
+switch ($_POST['action']){
+    case 'login':
+        $email = $_POST['email'];
+        $password = $_POST['password'];
+
+        $select_user = "SELECT * FROM register WHERE Email = '$email'";
+        $run_qry = mysqli_query($conn,$select_user);
+        if(mysqli_num_rows($run_qry)>0){
+            while ($row = mysqli_fetch_assoc($run_qry)){
+                if(password_verify('$password', $row['password'])){
+                    $email=$row['email'];
+                    header('location:/sub_pages/admin_login/login_message.php');
+                }
+                else{
+                    echo "<script type='text/javascript'>alert('Invalid email or password!');
+                     document.location='/sub_pages/login_and_Register/login_signup.php'</script>";
+                }
+            }
+        }
+ 
+}  
+-->

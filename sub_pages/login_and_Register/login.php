@@ -9,22 +9,15 @@ if(mysqli_connect_errno()) {
 } 
 
     $email = $_POST['email'];  
-    $password = $_POST['pass'];  
-      
-        //to prevent from mysqli injection  
-        $email = stripcslashes($email);  
-        $password = stripcslashes($password);  
-        $email = mysqli_real_escape_string($con, $email);  
-        $password = mysqli_real_escape_string($con, $password);  
-      
-        $sql = "select *from register where Email = '$email' and Password = '$password'";  
-        $result = mysqli_query($con, $sql);  
-        $row = mysqli_fetch_array($result, MYSQLI_ASSOC);  
-        $count = mysqli_num_rows($result);  
-          
-        if($count == 1){  
-            header('location:/sub_pages/admin_login/login_message.php');
-        }  
+    $password = $_POST['password'];
+    $decode = base64_encode($password);  
+    $sql =mysqli_query($con, "SELECT count(*) AS total from register where Email = '$email' and Password = '$decode'");   
+        
+    $row = mysqli_fetch_array($sql);
+
+    if($row["total"]>0){
+    header('location:/sub_pages/admin_login/login_message.php');
+} 
         else{  
              
             echo "<script type='text/javascript'>alert('Invalid email or password!');
@@ -32,27 +25,3 @@ if(mysqli_connect_errno()) {
         }     
 
 ?>
-
-<!--
-switch ($_POST['action']){
-    case 'login':
-        $email = $_POST['email'];
-        $password = $_POST['password'];
-
-        $select_user = "SELECT * FROM register WHERE Email = '$email'";
-        $run_qry = mysqli_query($conn,$select_user);
-        if(mysqli_num_rows($run_qry)>0){
-            while ($row = mysqli_fetch_assoc($run_qry)){
-                if(password_verify('$password', $row['password'])){
-                    $email=$row['email'];
-                    header('location:/sub_pages/admin_login/login_message.php');
-                }
-                else{
-                    echo "<script type='text/javascript'>alert('Invalid email or password!');
-                     document.location='/sub_pages/login_and_Register/login_signup.php'</script>";
-                }
-            }
-        }
- 
-}  
--->

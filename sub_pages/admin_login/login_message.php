@@ -83,7 +83,7 @@
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="/assets/pet.jpg" class="d-block w-100" alt="...">
+                <img src="/assets/snake.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                   <h5>Snake</h5>
                   <p>Snakes are Beautiful but dangerous</p>
@@ -133,7 +133,7 @@
           </div>
   
           <div class="second-set animate__animated animate__pulse">
-            <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
+            <img src="/assets/snake.jpg"  alt="snake"  class="icon icon-card">
             <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
             <img src="/assets/fish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
           </div>
@@ -161,7 +161,7 @@
             <a href="/sub_pages/buy_pets/buy.php" target="_self" class="project-link">Check it Out</a>
           </div>
           <div class="project-container project-card">
-            <img src="/assets/pet.jpg"  alt="fish"  loading="lazy"  class="project-pic">
+            <img src="/assets//snake.jpg"  alt="fish"  loading="lazy"  class="project-pic">
             <h3 class="project-title">Snake</h3>
             <p class="project-details">
               Snake

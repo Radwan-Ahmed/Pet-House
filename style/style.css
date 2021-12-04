@@ -182,6 +182,7 @@ nav {
   }
 .icon:hover{
   cursor: pointer;
+  background-color: hotpink;
 }
   .icon-card {
     background-color: #fff;

@@ -22,11 +22,14 @@ $Buyer_name = $_POST['full-name'];
 $Phone_number = $_POST['contact'];
 $Email = $_POST['email'];
 $Password = $_POST['password'];
-$Address = $_POST['address'];
+$Zilla = $_POST['zilla'];
+$Upazilla = $_POST['upazilla'];
+$Union = $_POST['union'];
+$Zip = $_POST['zip'];
 
 
-$data = "INSERT INTO buy (Animal_id, Animal_name, Color, Price, Age, Quantity, Net_price, Buyer_name, Phone_number, Email, Password, Address)
- VALUES ('$Animal_id','$Animal_name','$Color','$Price','$Age','$Quantity','$Net_price','$Buyer_name','$Phone_number','$Email','$Password','$Address')";
+$data = "INSERT INTO buy (Animal_id, Animal_name, Color, Price, Age, Quantity, Net_price, Buyer_name, Phone_number, Email, Password, Zilla,	Upazilla,Unionn,Zip)
+ VALUES ('$Animal_id','$Animal_name','$Color','$Price','$Age','$Quantity','$Net_price','$Buyer_name','$Phone_number','$Email','$Password','$Zilla','$Upazilla','$Union','$Zip')";
 
 mysqli_query($connection,$data);
 header('location:/html/index.php');

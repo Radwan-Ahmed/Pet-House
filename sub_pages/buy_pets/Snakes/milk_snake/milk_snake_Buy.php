@@ -77,9 +77,21 @@
                     <div class="order-label">Password</div>
                     <input type="password" name="password" placeholder="E.g. password..." class="input-responsive" required>
 
-                    <div class="order-label">Address</div>
-                    <textarea name="address" rows="10" placeholder="E.g. Street, City, Country" class="input-responsive" required></textarea>
+                   
+                    <div class="order-label">Zilla</div>
+                    <input type="text" name="zilla" placeholder="City" class="input-responsive" required>
 
+                    <div class="order-label">Upazilla</div>
+                    <input type="text" name="upazilla" placeholder="District" class="input-responsive" required>
+                    <div class="order-label">Union</div>
+                    <select id="color" name="union"  required>
+                   <option selected disabled value="">Choose...</option>
+                    <option value="Jadabpur">Jadabpur</option>
+                    <option value="Savar">Savar</option>
+                    <option value="Dhamrai">Dhamrai</option>
+                    </select>
+                    <div class="order-label">Zip/Postal</div>
+                    <input type="text" name="zip" placeholder="Zip/Postal" class="input-responsive" required>
                     <input type="submit" name="submit" value="Confirm Order" class="btn btn-primary">
                 </fieldset>
 

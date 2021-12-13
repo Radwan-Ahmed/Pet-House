@@ -11,8 +11,8 @@ if(mysqli_connect_errno()) {
     $email = $_POST['email'];  
     $password = $_POST['password'];
     $encrypted_pass = sha1($password);
-    $decode = base64_encode($encrypted_pass);  
-    $sql =mysqli_query($con, "SELECT count(*) AS total from register where Email = '$email' and Password = '$decode'");   
+    $encode = base64_encode($encrypted_pass);  
+    $sql =mysqli_query($con, "SELECT count(*) AS total from register where Email = '$email' and Password = '$encode'");   
         
     $row = mysqli_fetch_array($sql);
 

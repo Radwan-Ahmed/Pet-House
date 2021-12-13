@@ -14,6 +14,11 @@
         <a href="/html/index.php"><h1>Pet House</h1></a>
         <ul class="navigation">
           <li><a href="/html/index.php" class="nav-link">Home</a></li>
+          <li><a href="#Dogs" class="nav-link">Dogs</a></li>
+         <li><a href="#Cats" class="nav-link">Cats</a></li>
+         <li><a href="#Birds" class="nav-link">Birds</a></li>
+         <li><a href="#Fish" class="nav-link">Fish</a></li>
+         <li><a href="#Snake" class="nav-link">Snake</a></li>
         </ul>
         <button class="dot-menu" id="dot-menu">
           <ion-icon class="bars" name="menu-outline"></ion-icon>
@@ -24,91 +29,70 @@
     <section class="skills" id="skills">
       <div class="skills-wrapper">
         <div class="first-set animate__animated animate__pulse">
+          <h1 id="Dogs">Dogs</h1>
           <img src="/assets/dogs.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
-          <img  src="/assets/cats.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
-          <img  src="/assets/parrot.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
+          <img  src="/assets/dogs/alaskanmalamute.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
+          <img  src="/assets/dogs/bulldog.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
         </div>
 
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
-          <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
-          <img src="/assets/fish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
+          <img src="/assets/dogs/GermanShepherd.jpg"  alt="pet"  class="icon icon-card">
+          <img src="/assets/dogs/Poodle.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
+          <img src="/assets/dogs/GoldenRetriever.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
 
         <div class="first-set animate__animated animate__pulse">
-          <img src="/assets/dogs/alaskanmalamute.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
-          <img  src="/assets/Cats/AbyssinianCat.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
-          <img  src="/assets/birds/BeeEater.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
-        </div>
-
-        <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
-          <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
-          <img src="/assets/fish/EuropeanSeabass.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
-        </div>
-
-        <div class="first-set animate__animated animate__pulse">
-          <img src="/assets/dogs/BostonTerrier.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
+          <h1 id="Cats">Cats</h1>
+          <img src="/assets/Cats/AbyssinianCat.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
           <img  src="/assets/Cats/AmericanBobtailCat.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
+          <img  src="/assets/Cats/AmericanCurlCat.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
+        </div>
+
+        <div class="second-set animate__animated animate__pulse">
+          <img src="/assets/Cats/BurmeseCat.jpg"  alt="pet"  class="icon icon-card">
+          <img src="/assets/Cats/ManxCat.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
+          <img src="/assets/Cats/BombayCat.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
+        </div>
+
+        <div class="first-set animate__animated animate__pulse">
+          <h1 id="Birds">Birds</h1>
+          <img src="/assets/birds/Toucan.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
+          <img  src="/assets/birds/KingFisher.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
           <img  src="/assets/birds/HummingBird.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
         </div>
 
         
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
-          <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
-          <img src="/assets/fish/Goldfish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
-        </div>
-
-        <div class="first-set animate__animated animate__pulse">
-          <img src="/assets/dogs/bulldog.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
-          <img  src="/assets/Cats/AmericanCurlCat.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
-          <img  src="/assets/birds/KingFisher.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
+          <img src="/assets/birds/Parrots.jpg"  alt="pet"  class="icon icon-card">
+          <img src="/assets/birds/BeeEater.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
+          <img src="/assets/birds/swallows.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
 
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
-          <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
+          <h1 id="Fish">Fishes</h1>
+          <img src="/assets/fish/Goldfish.jpg"  alt="pet"  class="icon icon-card">
+          <img src="/assets/fish/Oscar.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
           <img src="/assets/fish/NeonTetra.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
 
         <div class="first-set animate__animated animate__pulse">
-          <img src="/assets/dogs/GermanShepherd.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
-          <img  src="/assets/Cats/BombayCat.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
-          <img  src="/assets/birds/Parrots.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
+          <img src="/assets/fish/EuropeanSeabass.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
+          <img  src="/assets/fish/SiameseFightingFish.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
+          <img  src="/assets/fish/ZebraFish.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
         </div>
 
         
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
-          <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
-          <img src="/assets/fish/Oscar.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
-        </div>
-
-        
-        <div class="first-set animate__animated animate__pulse">
-          <img src="/assets/dogs/GoldenRetriever.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
-          <img  src="/assets/Cats/BurmeseCat.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
-          <img  src="/assets/birds/swallows.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
+          <h1 id="Snake">Snakes</h1>
+          <img src="/assets/snakes/black_rat.jpg"  alt="pet"  class="icon icon-card">
+          <img src="/assets/snakes/red_bellied_black_snake.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
+          <img src="/assets/snakes/copper_head.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
 
         <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
-          <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
-          <img src="/assets/fish/SiameseFightingFish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
-        </div>
-
-                
-        <div class="first-set animate__animated animate__pulse">
-          <img src="/assets/dogs/Poodle.jpg" alt="dogs" loading="lazy"  class="icon icon-card" >
-          <img  src="/assets/Cats/ManxCat.jpg" alt="cats"  loading="lazy"  class="icon icon-card">
-          <img  src="/assets/birds/Toucan.jpg"  alt="parrot" loading="lazy"  class="icon icon-card" >
-        </div>
-
-        <div class="second-set animate__animated animate__pulse">
-          <img src="/assets/pet.jpg"  alt="pet"  class="icon icon-card">
-          <img src="/assets/horse.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
-          <img src="/assets/fish/ZebraFish.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
+          <img src="/assets/snakes/scarlet.jpg"  alt="pet"  class="icon icon-card">
+          <img src="/assets/snakes/Timber_rattle_snake.jpg"  alt="horse"  loading="lazy"  class="icon icon-card">
+          <img src="/assets/snakes/milk_snake.jpg"  alt="fish"  loading="lazy"  class="icon icon-card">
         </div>
       </div>
     </section>

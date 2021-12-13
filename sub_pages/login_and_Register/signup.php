@@ -16,7 +16,7 @@ $email = $_POST['email'];
 $pass = $_POST['password'];
 $encrypted_pass = sha1($pass);
 $password = base64_encode($encrypted_pass);
-$query = mysqli_query($connection, "SELECT * FROM register WHERE Email= '$email'");
+$query = mysqli_query($connection, "SELECT (Email) FROM register WHERE Email= '$email'");
 if(mysqli_num_rows($query)>0){
     echo "<script type='text/javascript'>alert('Account Already Exists! Please Try with another Email. Thank You');
             document.location='/sub_pages/login_and_Register/login_signup.php'</script>";

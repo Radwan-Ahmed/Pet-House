@@ -20,9 +20,8 @@ if(mysqli_connect_errno()) {
         $password = mysqli_real_escape_string($con, $password);
         $user_id = mysqli_real_escape_string($con, $user_id);   
       
-        $sql = "select *from admin_login where Email = '$email' and Password = '$password' and User_id = '$user_id'";  
+        $sql = "SELECT Email,Password,User_id from admin_login where Email = '$email' and Password = '$password' and User_id = '$user_id'";  
         $result = mysqli_query($con, $sql);  
-        $row = mysqli_fetch_array($result, MYSQLI_ASSOC);  
         $count = mysqli_num_rows($result);  
           
         if($count == 1){  

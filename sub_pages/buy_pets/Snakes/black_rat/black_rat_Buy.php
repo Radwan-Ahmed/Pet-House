@@ -12,7 +12,15 @@
     <link rel="stylesheet" href="/sub_pages/buy_pets/order_and_Buying_page/Buying_page.css">
     <link rel="stylesheet" href="/style/style.css">
 </head>
-
+<style>
+    #input{
+        background-color: rgb(110, 110, 107);
+        color: white;
+        outline: none;
+        border: none;
+        border-radius: 10px;
+    }
+</style>
 <body>
 
 <nav>
@@ -60,8 +68,8 @@
                         <input type="number" name="age" class="input-responsive" value="1" required>
                         <div class="order-label">Quantity</div>
                         <input type="number" name="qty" class="input-responsive" value="0" required>
-                          <!--<label for="price">Net Price: $</label> -->
-                        <input style="color: black;" name="net_price" for="qty Name" style="color: black;"></input>
+                        <label for="price">Net Price: $</label>
+                        <input type="text" name="net_price" for="qty Name" id="input" readonly></input>
                     </div>
 
                 </fieldset>

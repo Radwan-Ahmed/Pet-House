@@ -63,10 +63,10 @@
                          <option value="tan/black">red/black</option>
                     </select>
 
-                    <div class="order-label">Age</div>
-                        <input type="number" name="age" class="input-responsive" value="1" required>
+                    <div class="order-label">Age(month)</div>
+                        <input type="number" name="age" class="input-responsive" min="1" max="24" value="1" required>
                         <div class="order-label">Quantity</div>
-                        <input type="number" name="qty" class="input-responsive" value="0" required>
+                        <input type="number" name="qty" class="input-responsive" min="1" max="12" value="0" required>
                         <label for="price">Net Price: $</label>
                         <input type="text" name="net_price" for="qty Name" id="input" readonly></input>
                     </div>
